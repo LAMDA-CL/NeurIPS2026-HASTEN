@@ -1,0 +1,53 @@
+{
+  "entity": [
+    "prepared_food"
+  ],
+  "prepared_food": [
+    "savory_dish",
+    "dessert"
+  ],
+  "savory_dish": [
+    "fried calamari",
+    "spring rolls",
+    "hummus",
+    "shrimp and grits",
+    "chicken wings",
+    "eggs benedict",
+    "oysters",
+    "beef carpaccio",
+    "pork chop",
+    "edamame",
+    "hot and sour soup",
+    "sashimi",
+    "grilled cheese sandwich",
+    "prime rib",
+    "ceviche",
+    "cheese plate",
+    "lobster roll sandwich",
+    "garlic bread",
+    "lasagna",
+    "foie gras",
+    "huevos rancheros",
+    "grilled salmon",
+    "scallops",
+    "poutine",
+    "clam chowder",
+    "bibimbap",
+    "guacamole",
+    "beef tartare",
+    "escargots",
+    "bruschetta",
+    "caprese salad"
+  ],
+  "dessert": [
+    "carrot cake",
+    "chocolate cake",
+    "tiramisu",
+    "cannoli",
+    "creme brulee",
+    "frozen yogurt",
+    "apple pie",
+    "panna cotta",
+    "bread pudding"
+  ]
+}

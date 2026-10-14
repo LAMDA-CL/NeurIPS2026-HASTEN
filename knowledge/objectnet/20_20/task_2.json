@@ -1,0 +1,127 @@
+{
+  "entity": [
+    "physical_object"
+  ],
+  "physical_object": [
+    "material",
+    "substance",
+    "biological_item",
+    "tool",
+    "container",
+    "clothing",
+    "hardware",
+    "kitchenware",
+    "household_item",
+    "eating_utensil"
+  ],
+  "material": [
+    "paper"
+  ],
+  "substance": [
+    "ice",
+    "dish soap"
+  ],
+  "biological_item": [
+    "food",
+    "leaf"
+  ],
+  "food": [
+    "egg",
+    "lemon",
+    "coffee beans",
+    "cheese",
+    "canned food",
+    "cereal",
+    "butter"
+  ],
+  "tool": [
+    "kitchen_tool",
+    "personal_care_tool",
+    "pencil",
+    "marker",
+    "baseball bat",
+    "pen",
+    "dust pan",
+    "eraser white board"
+  ],
+  "kitchen_tool": [
+    "can opener",
+    "bottle opener",
+    "butchers knife"
+  ],
+  "personal_care_tool": [
+    "loofah",
+    "hair dryer",
+    "nail file"
+  ],
+  "container": [
+    "bag",
+    "drinkware",
+    "flour container",
+    "honey container",
+    "paint can",
+    "cooking oil bottle",
+    "pepper shaker"
+  ],
+  "bag": [
+    "plastic bag",
+    "backpack"
+  ],
+  "drinkware": [
+    "plastic cup",
+    "pitcher",
+    "beer bottle",
+    "mug"
+  ],
+  "clothing": [
+    "upper_body_clothing",
+    "legwear",
+    "clothing_accessory"
+  ],
+  "upper_body_clothing": [
+    "blouse"
+  ],
+  "legwear": [
+    "leggings"
+  ],
+  "clothing_accessory": [
+    "belt",
+    "oven mitts",
+    "dress shoe men",
+    "dress shoe women",
+    "helmet"
+  ],
+  "hardware": [
+    "nail fastener",
+    "extension cable"
+  ],
+  "kitchenware": [
+    "baking sheet",
+    "frying pan"
+  ],
+  "household_item": [
+    "lighting_device",
+    "laundry_item",
+    "figurine or statue",
+    "laptop open",
+    "phone landline",
+    "mouse pad",
+    "notebook",
+    "air freshener",
+    "bills money",
+    "bench",
+    "keyboard",
+    "bicycle"
+  ],
+  "lighting_device": [
+    "desk lamp"
+  ],
+  "laundry_item": [
+    "drying rack for clothes",
+    "full sized towel",
+    "blanket"
+  ],
+  "eating_utensil": [
+    "chopstick"
+  ]
+}

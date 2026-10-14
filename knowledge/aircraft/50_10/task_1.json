@@ -1,0 +1,109 @@
+{
+  "entity": [
+    "aircraft"
+  ],
+  "aircraft": [
+    "civil_aircraft",
+    "military_aircraft"
+  ],
+  "civil_aircraft": [
+    "airliner",
+    "business_jet",
+    "general_aviation_aircraft",
+    "utility_aircraft"
+  ],
+  "airliner": [
+    "narrow_body_jet_airliner",
+    "wide_body_jet_airliner",
+    "regional_jet_airliner",
+    "regional_turboprop_airliner",
+    "piston_airliner"
+  ],
+  "narrow_body_jet_airliner": [
+    "757-200",
+    "757-300",
+    "737-300",
+    "737-400",
+    "737-500",
+    "737-700",
+    "737-800",
+    "MD-80",
+    "MD-87",
+    "DC-9-30",
+    "Tu-154",
+    "A319",
+    "707-320",
+    "DC-8",
+    "727-200",
+    "737-600",
+    "MD-90"
+  ],
+  "wide_body_jet_airliner": [
+    "777-300",
+    "A300B4",
+    "A380",
+    "767-200",
+    "747-300",
+    "747-100",
+    "747-400",
+    "A330-200",
+    "A340-500",
+    "A310",
+    "L-1011"
+  ],
+  "regional_jet_airliner": [
+    "ERJ 145",
+    "CRJ-900",
+    "CRJ-700",
+    "Fokker 70",
+    "Fokker 100",
+    "E-195"
+  ],
+  "regional_turboprop_airliner": [
+    "ATR-42",
+    "Metroliner",
+    "Fokker 50",
+    "DHC-8-300",
+    "ATR-72",
+    "EMB-120",
+    "Saab 340"
+  ],
+  "piston_airliner": [
+    "DC-6"
+  ],
+  "business_jet": [
+    "Cessna 525",
+    "Cessna 560",
+    "Global Express",
+    "BAE-125",
+    "Challenger 600",
+    "Embraer Legacy 600",
+    "Falcon 2000",
+    "Falcon 900"
+  ],
+  "general_aviation_aircraft": [
+    "SR-20",
+    "Cessna 172",
+    "PA-28"
+  ],
+  "utility_aircraft": [
+    "DHC-6",
+    "Model B200"
+  ],
+  "military_aircraft": [
+    "military_transport_aircraft",
+    "military_trainer_aircraft",
+    "fighter_aircraft"
+  ],
+  "military_transport_aircraft": [
+    "C-47",
+    "Il-76"
+  ],
+  "military_trainer_aircraft": [
+    "DH-82",
+    "Hawk T1"
+  ],
+  "fighter_aircraft": [
+    "F/A-18"
+  ]
+}

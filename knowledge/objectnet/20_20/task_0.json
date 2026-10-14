@@ -1,0 +1,87 @@
+{
+  "entity": [
+    "physical_object"
+  ],
+  "physical_object": [
+    "material",
+    "substance",
+    "biological_item",
+    "tool",
+    "container",
+    "clothing",
+    "hardware",
+    "kitchenware",
+    "household_item",
+    "eating_utensil"
+  ],
+  "material": [
+    "paper"
+  ],
+  "substance": [
+    "ice"
+  ],
+  "biological_item": [
+    "food"
+  ],
+  "food": [
+    "egg",
+    "lemon"
+  ],
+  "tool": [
+    "kitchen_tool",
+    "personal_care_tool"
+  ],
+  "kitchen_tool": [
+    "can opener"
+  ],
+  "personal_care_tool": [
+    "loofah"
+  ],
+  "container": [
+    "bag",
+    "drinkware",
+    "flour container"
+  ],
+  "bag": [
+    "plastic bag",
+    "backpack"
+  ],
+  "drinkware": [
+    "plastic cup",
+    "pitcher"
+  ],
+  "clothing": [
+    "upper_body_clothing",
+    "legwear",
+    "clothing_accessory"
+  ],
+  "upper_body_clothing": [
+    "blouse"
+  ],
+  "legwear": [
+    "leggings"
+  ],
+  "clothing_accessory": [
+    "belt",
+    "oven mitts"
+  ],
+  "hardware": [
+    "nail fastener"
+  ],
+  "kitchenware": [
+    "baking sheet"
+  ],
+  "household_item": [
+    "lighting_device",
+    "laundry_item"
+  ],
+  "lighting_device": [
+    "desk lamp"
+  ],
+  "laundry_item": [
+    "drying rack for clothes"
+  ],
+  "eating_utensil": [
+    "chopstick"
+  ]
+}

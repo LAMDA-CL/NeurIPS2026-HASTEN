@@ -1,0 +1,291 @@
+{
+  "entity": [
+    "organism",
+    "artifact",
+    "natural_structure"
+  ],
+  "organism": [
+    "animal",
+    "plant",
+    "fungus"
+  ],
+  "animal": [
+    "mammal",
+    "bird",
+    "reptile",
+    "amphibian",
+    "fish",
+    "arthropod",
+    "echinoderm",
+    "cnidarian"
+  ],
+  "mammal": [
+    "primate",
+    "carnivoran",
+    "rodent",
+    "lagomorph",
+    "ungulate",
+    "marine_mammal"
+  ],
+  "primate": [
+    "chimpanzee",
+    "baboon",
+    "human",
+    "orangutan"
+  ],
+  "human": [
+    "scuba_diver"
+  ],
+  "carnivoran": [
+    "feline",
+    "canid",
+    "mustelid",
+    "skunk",
+    "hyena",
+    "panda",
+    "meerkat"
+  ],
+  "feline": [
+    "leopard",
+    "lion",
+    "tiger",
+    "cheetah",
+    "tabby_cat",
+    "snow_leopard"
+  ],
+  "canid": [
+    "dog",
+    "timber_wolf"
+  ],
+  "dog": [
+    "dog_breed"
+  ],
+  "dog_breed": [
+    "bloodhound",
+    "border_collie",
+    "french_bulldog",
+    "labrador_retriever",
+    "whippet",
+    "west_highland_white_terrier",
+    "shih_tzu",
+    "afghan_hound",
+    "collie",
+    "dalmatian",
+    "husky",
+    "toy_poodle",
+    "pembroke_welsh_corgi",
+    "german_shepherd_dog",
+    "scottish_terrier",
+    "weimaraner",
+    "golden_retriever",
+    "saint_bernard",
+    "pomeranian"
+  ],
+  "mustelid": [
+    "badger"
+  ],
+  "rodent": [
+    "guinea_pig",
+    "porcupine"
+  ],
+  "lagomorph": [
+    "wood_rabbit"
+  ],
+  "ungulate": [
+    "bison",
+    "hippopotamus",
+    "pig",
+    "gazelle",
+    "llama"
+  ],
+  "marine_mammal": [
+    "grey_whale"
+  ],
+  "bird": [
+    "duck",
+    "goldfinch",
+    "flamingo",
+    "goose",
+    "hummingbird",
+    "bald_eagle",
+    "king_penguin",
+    "ostrich",
+    "pelican",
+    "lorikeet",
+    "junco",
+    "toucan",
+    "hen"
+  ],
+  "reptile": [
+    "cobra",
+    "iguana",
+    "African_chameleon"
+  ],
+  "amphibian": [
+    "newt",
+    "tree_frog"
+  ],
+  "fish": [
+    "goldfish",
+    "clown_fish",
+    "puffer_fish",
+    "hammerhead",
+    "stingray",
+    "eel",
+    "great_white_shark"
+  ],
+  "arthropod": [
+    "insect",
+    "arachnid",
+    "crustacean",
+    "myriapod"
+  ],
+  "insect": [
+    "ant",
+    "monarch_butterfly",
+    "grasshopper",
+    "cockroach",
+    "dragonfly",
+    "ladybug",
+    "fly"
+  ],
+  "arachnid": [
+    "scorpion"
+  ],
+  "crustacean": [
+    "lobster"
+  ],
+  "myriapod": [
+    "centipede"
+  ],
+  "echinoderm": [
+    "starfish"
+  ],
+  "cnidarian": [
+    "jellyfish"
+  ],
+  "plant": [
+    "fruit",
+    "vegetable"
+  ],
+  "fruit": [
+    "banana",
+    "pomegranate"
+  ],
+  "vegetable": [
+    "cabbage",
+    "broccoli",
+    "bell_pepper",
+    "cucumber"
+  ],
+  "fungus": [
+    "mushroom"
+  ],
+  "natural_structure": [
+    "spider_web",
+    "volcano"
+  ],
+  "artifact": [
+    "tool_or_implement",
+    "vehicle",
+    "building_or_structure",
+    "container",
+    "musical_instrument",
+    "clothing_or_accessory",
+    "protective_gear",
+    "sports_equipment",
+    "optical_device",
+    "weapon",
+    "bag",
+    "footwear",
+    "communication_device",
+    "recreational_device",
+    "food_item",
+    "candle"
+  ],
+  "tool_or_implement": [
+    "hatchet",
+    "hammer",
+    "lawn_mower",
+    "broom"
+  ],
+  "vehicle": [
+    "land_vehicle",
+    "watercraft",
+    "military_aircraft"
+  ],
+  "land_vehicle": [
+    "school_bus",
+    "fire_engine",
+    "steam_locomotive",
+    "jeep",
+    "ambulance"
+  ],
+  "watercraft": [
+    "pirate_ship",
+    "schooner",
+    "submarine"
+  ],
+  "building_or_structure": [
+    "castle",
+    "lighthouse",
+    "birdhouse"
+  ],
+  "container": [
+    "wine_bottle",
+    "beer_glass",
+    "vase",
+    "mailbox",
+    "cauldron",
+    "bathtub",
+    "bucket"
+  ],
+  "musical_instrument": [
+    "trombone",
+    "flute",
+    "electric_guitar",
+    "violin",
+    "accordion",
+    "saxophone",
+    "grand_piano",
+    "harmonica",
+    "harp"
+  ],
+  "clothing_or_accessory": [
+    "bow_tie",
+    "cowboy_hat",
+    "scarf"
+  ],
+  "protective_gear": [
+    "gasmask",
+    "shield"
+  ],
+  "sports_equipment": [
+    "rugby_ball",
+    "soccer_ball"
+  ],
+  "optical_device": [
+    "binoculars"
+  ],
+  "weapon": [
+    "cannon",
+    "guillotine"
+  ],
+  "bag": [
+    "backpack"
+  ],
+  "footwear": [
+    "sandal"
+  ],
+  "communication_device": [
+    "mobile_phone"
+  ],
+  "recreational_device": [
+    "carousel"
+  ],
+  "food_item": [
+    "pizza",
+    "burrito",
+    "ice_cream"
+  ]
+}

@@ -1,0 +1,33 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Editors and operating system
+.DS_Store
+.idea/
+.vscode/
+
+# Local data, downloaded weights and generated features
+data/
+cache_dir/
+.cache/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.npy
+*.npz
+*.pdf
+knowledge/generated/
+.env
+.env.*
+
+# Optional external experiment tracking
+wandb/
+wandb-bak/
+
+# Experiment logs are intentionally retained in version control.

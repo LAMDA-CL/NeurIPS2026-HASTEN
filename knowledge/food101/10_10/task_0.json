@@ -1,0 +1,23 @@
+{
+  "entity": [
+    "prepared_food"
+  ],
+  "prepared_food": [
+    "savory_dish",
+    "dessert"
+  ],
+  "savory_dish": [
+    "fried calamari",
+    "spring rolls",
+    "hummus",
+    "shrimp and grits",
+    "chicken wings",
+    "eggs benedict",
+    "oysters",
+    "beef carpaccio"
+  ],
+  "dessert": [
+    "carrot cake",
+    "chocolate cake"
+  ]
+}

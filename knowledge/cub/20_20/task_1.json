@@ -1,0 +1,95 @@
+{
+  "entity": [
+    "bird"
+  ],
+  "bird": [
+    "tern",
+    "warbler",
+    "wren",
+    "bunting",
+    "puffin",
+    "albatross",
+    "oriole",
+    "cormorant",
+    "ani",
+    "swallow",
+    "grosbeak",
+    "sparrow",
+    "jay",
+    "merganser",
+    "tanager",
+    "woodpecker",
+    "Frigatebird",
+    "Western Wood Pewee",
+    "Glaucous winged Gull",
+    "White necked Raven",
+    "Fish Crow",
+    "Red legged Kittiwake",
+    "White eyed Vireo",
+    "Western Grebe",
+    "Gadwall",
+    "Brown Thrasher",
+    "Parakeet Auklet",
+    "Horned Grebe"
+  ],
+  "tern": [
+    "Elegant Tern"
+  ],
+  "warbler": [
+    "Prothonotary Warbler",
+    "Blue winged Warbler",
+    "Orange crowned Warbler",
+    "Louisiana Waterthrush",
+    "Ovenbird",
+    "Magnolia Warbler",
+    "American Redstart",
+    "Pine Warbler"
+  ],
+  "wren": [
+    "Cactus Wren",
+    "Carolina Wren"
+  ],
+  "bunting": [
+    "Lazuli Bunting"
+  ],
+  "puffin": [
+    "Horned Puffin"
+  ],
+  "albatross": [
+    "Sooty Albatross",
+    "Black footed Albatross"
+  ],
+  "oriole": [
+    "Baltimore Oriole"
+  ],
+  "cormorant": [
+    "Red faced Cormorant"
+  ],
+  "ani": [
+    "Groove billed Ani"
+  ],
+  "swallow": [
+    "Tree Swallow",
+    "Barn Swallow"
+  ],
+  "grosbeak": [
+    "Pine Grosbeak"
+  ],
+  "sparrow": [
+    "Henslow Sparrow",
+    "Harris Sparrow"
+  ],
+  "jay": [
+    "Florida Jay"
+  ],
+  "merganser": [
+    "Hooded Merganser"
+  ],
+  "tanager": [
+    "Scarlet Tanager"
+  ],
+  "woodpecker": [
+    "Downy Woodpecker",
+    "American Three toed Woodpecker"
+  ]
+}

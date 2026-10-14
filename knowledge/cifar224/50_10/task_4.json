@@ -1,0 +1,172 @@
+{
+  "entity": [
+    "organism",
+    "artifact",
+    "natural_feature"
+  ],
+  "organism": [
+    "animal",
+    "plant",
+    "fungus"
+  ],
+  "animal": [
+    "mammal",
+    "reptile",
+    "fish",
+    "insect",
+    "arachnid",
+    "crustacean",
+    "mollusk",
+    "worm"
+  ],
+  "mammal": [
+    "lion",
+    "fox",
+    "chimpanzee",
+    "bear",
+    "camel",
+    "mouse",
+    "beaver",
+    "elephant",
+    "otter",
+    "shrew",
+    "skunk",
+    "human",
+    "raccoon",
+    "tiger",
+    "possum",
+    "seal",
+    "squirrel",
+    "dolphin",
+    "porcupine",
+    "rabbit",
+    "kangaroo",
+    "wolf",
+    "hamster"
+  ],
+  "human": [
+    "man",
+    "woman",
+    "girl",
+    "boy",
+    "baby"
+  ],
+  "reptile": [
+    "crocodile",
+    "snake",
+    "dinosaur",
+    "lizard",
+    "turtle"
+  ],
+  "fish": [
+    "shark",
+    "ray",
+    "aquarium fish",
+    "trout",
+    "flatfish"
+  ],
+  "insect": [
+    "butterfly",
+    "beetle",
+    "cockroach",
+    "bee",
+    "caterpillar"
+  ],
+  "arachnid": [
+    "spider"
+  ],
+  "crustacean": [
+    "lobster"
+  ],
+  "mollusk": [
+    "snail"
+  ],
+  "plant": [
+    "tree",
+    "flowering_plant"
+  ],
+  "tree": [
+    "pine tree",
+    "palm tree",
+    "maple tree",
+    "oak tree"
+  ],
+  "flowering_plant": [
+    "tulip",
+    "orchid",
+    "rose",
+    "sunflower",
+    "apple",
+    "pear",
+    "sweet pepper"
+  ],
+  "fungus": [
+    "mushroom"
+  ],
+  "natural_feature": [
+    "forest",
+    "mountain",
+    "cloud"
+  ],
+  "artifact": [
+    "vehicle",
+    "furniture",
+    "tableware",
+    "container",
+    "building",
+    "infrastructure",
+    "device"
+  ],
+  "vehicle": [
+    "tractor",
+    "bicycle",
+    "bus",
+    "rocket",
+    "train",
+    "streetcar",
+    "pickup truck",
+    "motorcycle"
+  ],
+  "furniture": [
+    "chair",
+    "bed",
+    "table",
+    "wardrobe",
+    "couch"
+  ],
+  "tableware": [
+    "plate",
+    "bowl",
+    "cup"
+  ],
+  "container": [
+    "can",
+    "bottle"
+  ],
+  "building": [
+    "skyscraper",
+    "house",
+    "castle"
+  ],
+  "infrastructure": [
+    "bridge",
+    "road"
+  ],
+  "device": [
+    "electronic_device",
+    "timekeeping_device",
+    "input_device",
+    "lamp",
+    "lawn mower"
+  ],
+  "electronic_device": [
+    "telephone",
+    "television"
+  ],
+  "timekeeping_device": [
+    "clock"
+  ],
+  "input_device": [
+    "keyboard"
+  ]
+}

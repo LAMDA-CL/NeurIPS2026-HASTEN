@@ -1,0 +1,174 @@
+{
+  "entity": [
+    "physical_activity"
+  ],
+  "physical_activity": [
+    "sport",
+    "exercise",
+    "performing_art",
+    "everyday_activity",
+    "craft_activity",
+    "infant_activity",
+    "manual_work_activity"
+  ],
+  "sport": [
+    "team_sport",
+    "racket_sport",
+    "athletics",
+    "gymnastics_sport",
+    "combat_sport",
+    "water_sport",
+    "cycling_sport",
+    "board_sport",
+    "precision_sport",
+    "climbing_sport",
+    "aerial_sport",
+    "strength_sport"
+  ],
+  "exercise": [
+    "strength_exercise",
+    "cardio_exercise",
+    "combat_training_exercise"
+  ],
+  "performing_art": [
+    "music_performance",
+    "dance_performance",
+    "circus_performance",
+    "marching_performance"
+  ],
+  "everyday_activity": [
+    "household_activity",
+    "personal_care_activity",
+    "ritual_activity"
+  ],
+  "craft_activity": [
+    "Knitting"
+  ],
+  "infant_activity": [
+    "Baby Crawling"
+  ],
+  "manual_work_activity": [
+    "construction_activity",
+    "food_preparation_activity"
+  ],
+  "household_activity": [
+    "Mopping Floor"
+  ],
+  "personal_care_activity": [
+    "Shaving Beard",
+    "Haircut",
+    "Apply Eye Makeup",
+    "Blow Dry Hair"
+  ],
+  "ritual_activity": [
+    "Blowing Candles"
+  ],
+  "construction_activity": [
+    "Hammering"
+  ],
+  "food_preparation_activity": [
+    "Cutting In Kitchen",
+    "Pizza Tossing"
+  ],
+  "strength_exercise": [
+    "Body Weight Squats",
+    "Pull Ups",
+    "Wall Pushups",
+    "Lunges"
+  ],
+  "cardio_exercise": [
+    "Jump Rope"
+  ],
+  "combat_training_exercise": [
+    "Boxing Punching Bag",
+    "Punch",
+    "Nunchucks"
+  ],
+  "music_performance": [
+    "Playing Flute",
+    "Playing Daf"
+  ],
+  "dance_performance": [
+    "Ice Dancing",
+    "Salsa Spin"
+  ],
+  "circus_performance": [
+    "Juggling Balls"
+  ],
+  "marching_performance": [
+    "Band Marching"
+  ],
+  "team_sport": [
+    "basketball_activity",
+    "cricket_activity"
+  ],
+  "basketball_activity": [
+    "Basketball",
+    "Basketball Dunk"
+  ],
+  "cricket_activity": [
+    "Cricket Bowling"
+  ],
+  "racket_sport": [
+    "table_tennis_activity"
+  ],
+  "table_tennis_activity": [
+    "Table Tennis Shot"
+  ],
+  "athletics": [
+    "athletics_jump_event",
+    "athletics_throw_event"
+  ],
+  "athletics_jump_event": [
+    "High Jump",
+    "Long Jump",
+    "Pole Vault"
+  ],
+  "athletics_throw_event": [
+    "Throw Discus",
+    "Shotput",
+    "Hammer Throw"
+  ],
+  "gymnastics_sport": [
+    "Parallel Bars",
+    "Balance Beam",
+    "Rope Climbing"
+  ],
+  "combat_sport": [
+    "Sumo Wrestling",
+    "Fencing"
+  ],
+  "water_sport": [
+    "swimming_sport",
+    "rowing_sport",
+    "diving_sport"
+  ],
+  "swimming_sport": [
+    "Front Crawl"
+  ],
+  "rowing_sport": [
+    "Rowing"
+  ],
+  "diving_sport": [
+    "Cliff Diving"
+  ],
+  "cycling_sport": [
+    "Biking"
+  ],
+  "board_sport": [
+    "Skate Boarding",
+    "Surfing"
+  ],
+  "precision_sport": [
+    "Bowling"
+  ],
+  "climbing_sport": [
+    "Rock Climbing Indoor"
+  ],
+  "aerial_sport": [
+    "Sky Diving"
+  ],
+  "strength_sport": [
+    "Clean And Jerk"
+  ]
+}

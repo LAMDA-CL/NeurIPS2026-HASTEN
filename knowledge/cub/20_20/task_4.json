@@ -1,0 +1,155 @@
+{
+  "entity": [
+    "bird"
+  ],
+  "bird": [
+    "tern",
+    "warbler",
+    "wren",
+    "bunting",
+    "puffin",
+    "albatross",
+    "oriole",
+    "cormorant",
+    "ani",
+    "swallow",
+    "grosbeak",
+    "sparrow",
+    "jay",
+    "merganser",
+    "tanager",
+    "woodpecker",
+    "Frigatebird",
+    "Western Wood Pewee",
+    "Glaucous winged Gull",
+    "White necked Raven",
+    "Fish Crow",
+    "Red legged Kittiwake",
+    "White eyed Vireo",
+    "Western Grebe",
+    "Gadwall",
+    "Brown Thrasher",
+    "Parakeet Auklet",
+    "Horned Grebe",
+    "Bobolink",
+    "Great Grey Shrike",
+    "Olive sided Flycatcher",
+    "Gray Catbird",
+    "Chuck will Widow",
+    "Bohemian Waxwing",
+    "Horned Lark",
+    "Cardinal",
+    "Green Violetear",
+    "Mockingbird",
+    "Scissor tailed Flycatcher",
+    "Long tailed Jaeger",
+    "Mangrove Cuckoo",
+    "Tropical Kingbird",
+    "Brewer Blackbird",
+    "Rusty Blackbird",
+    "Black capped Vireo",
+    "Ivory Gull",
+    "Herring Gull",
+    "Brown Creeper",
+    "Pacific Loon",
+    "Sayornis",
+    "Gray Kingbird",
+    "Ruby throated Hummingbird",
+    "Loggerhead Shrike",
+    "Anna Hummingbird",
+    "Cedar Waxwing",
+    "Cape Glossy Starling",
+    "Pigeon Guillemot",
+    "Western Meadowlark"
+  ],
+  "tern": [
+    "Elegant Tern",
+    "Black Tern"
+  ],
+  "warbler": [
+    "Prothonotary Warbler",
+    "Blue winged Warbler",
+    "Orange crowned Warbler",
+    "Louisiana Waterthrush",
+    "Ovenbird",
+    "Magnolia Warbler",
+    "American Redstart",
+    "Pine Warbler",
+    "Northern Waterthrush",
+    "Bay breasted Warbler",
+    "Canada Warbler",
+    "Palm Warbler",
+    "Golden winged Warbler",
+    "Cape May Warbler",
+    "Hooded Warbler",
+    "Black and white Warbler"
+  ],
+  "wren": [
+    "Cactus Wren",
+    "Carolina Wren",
+    "Winter Wren",
+    "Bewick Wren"
+  ],
+  "bunting": [
+    "Lazuli Bunting",
+    "Painted Bunting",
+    "Indigo Bunting"
+  ],
+  "puffin": [
+    "Horned Puffin"
+  ],
+  "albatross": [
+    "Sooty Albatross",
+    "Black footed Albatross"
+  ],
+  "oriole": [
+    "Baltimore Oriole",
+    "Scott Oriole",
+    "Orchard Oriole"
+  ],
+  "cormorant": [
+    "Red faced Cormorant",
+    "Pelagic Cormorant"
+  ],
+  "ani": [
+    "Groove billed Ani"
+  ],
+  "swallow": [
+    "Tree Swallow",
+    "Barn Swallow",
+    "Cliff Swallow",
+    "Bank Swallow"
+  ],
+  "grosbeak": [
+    "Pine Grosbeak",
+    "Evening Grosbeak"
+  ],
+  "sparrow": [
+    "Henslow Sparrow",
+    "Harris Sparrow",
+    "Dark eyed Junco",
+    "White crowned Sparrow",
+    "Grasshopper Sparrow",
+    "Baird Sparrow",
+    "Lincoln Sparrow",
+    "Tree Sparrow",
+    "Chipping Sparrow",
+    "White throated Sparrow",
+    "Seaside Sparrow"
+  ],
+  "jay": [
+    "Florida Jay"
+  ],
+  "merganser": [
+    "Hooded Merganser",
+    "Red breasted Merganser"
+  ],
+  "tanager": [
+    "Scarlet Tanager"
+  ],
+  "woodpecker": [
+    "Downy Woodpecker",
+    "American Three toed Woodpecker",
+    "Northern Flicker"
+  ]
+}

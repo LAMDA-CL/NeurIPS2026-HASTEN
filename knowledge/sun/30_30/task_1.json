@@ -1,0 +1,123 @@
+{
+  "entity": [
+    "natural_feature",
+    "human_made_place",
+    "vehicle"
+  ],
+  "natural_feature": [
+    "landform",
+    "water_body",
+    "ecosystem",
+    "cryospheric_feature"
+  ],
+  "landform": [
+    "cliff"
+  ],
+  "cliff": [
+    "sea cliff"
+  ],
+  "water_body": [
+    "river"
+  ],
+  "ecosystem": [
+    "rainforest"
+  ],
+  "cryospheric_feature": [
+    "ice shelf"
+  ],
+  "human_made_place": [
+    "building_or_complex",
+    "interior_space",
+    "transportation_infrastructure",
+    "recreational_facility",
+    "commercial_area",
+    "industrial_facility",
+    "waste_site",
+    "excavation_site",
+    "agricultural_area",
+    "building facade"
+  ],
+  "building_or_complex": [
+    "planetarium",
+    "igloo",
+    "art school",
+    "cloister",
+    "kasbah",
+    "conference center",
+    "boathouse",
+    "observatory",
+    "booth",
+    "church",
+    "palace",
+    "mausoleum"
+  ],
+  "interior_space": [
+    "room",
+    "corridor",
+    "atrium"
+  ],
+  "room": [
+    "dorm room",
+    "dining room",
+    "parlor",
+    "galley",
+    "living room",
+    "locker room",
+    "classroom",
+    "burial chamber"
+  ],
+  "transportation_infrastructure": [
+    "railroad track",
+    "driveway",
+    "escalator",
+    "covered bridge",
+    "alley",
+    "dock",
+    "highway",
+    "harbor"
+  ],
+  "recreational_facility": [
+    "sports_facility",
+    "labyrinth",
+    "carrousel",
+    "discotheque",
+    "picnic area",
+    "ski resort",
+    "formal garden",
+    "jacuzzi"
+  ],
+  "sports_facility": [
+    "basketball court",
+    "putting green",
+    "riding arena"
+  ],
+  "commercial_area": [
+    "coffee shop",
+    "food court",
+    "gas station",
+    "bazaar",
+    "music store",
+    "clothing store",
+    "shoe shop"
+  ],
+  "industrial_facility": [
+    "assembly line",
+    "electrical substation",
+    "auto factory"
+  ],
+  "waste_site": [
+    "garbage dump"
+  ],
+  "excavation_site": [
+    "excavation"
+  ],
+  "vehicle": [
+    "watercraft"
+  ],
+  "watercraft": [
+    "raft"
+  ],
+  "agricultural_area": [
+    "rice paddy"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "entity": [
+    "aircraft"
+  ],
+  "aircraft": [
+    "airplane"
+  ],
+  "airplane": [
+    "military_aircraft",
+    "general_aviation_aircraft",
+    "commercial_airliner"
+  ],
+  "military_aircraft": [
+    "military_transport_aircraft",
+    "military_trainer_aircraft",
+    "F/A-18",
+    "F-16A/B"
+  ],
+  "military_transport_aircraft": [
+    "C-47",
+    "Il-76",
+    "An-12"
+  ],
+  "military_trainer_aircraft": [
+    "DH-82",
+    "Hawk T1",
+    "DHC-1"
+  ],
+  "general_aviation_aircraft": [
+    "SR-20",
+    "Cessna 525",
+    "Global Express",
+    "BAE-125",
+    "Cessna 560",
+    "Challenger 600",
+    "Embraer Legacy 600",
+    "Falcon 2000",
+    "Falcon 900",
+    "Cessna 172",
+    "Model B200",
+    "PA-28",
+    "Gulfstream IV",
+    "Gulfstream V",
+    "Cessna 208"
+  ],
+  "commercial_airliner": [
+    "narrow_body_airliner",
+    "wide_body_airliner",
+    "regional_airliner"
+  ],
+  "narrow_body_airliner": [
+    "757-200",
+    "737-300",
+    "DC-6",
+    "MD-80",
+    "Tu-154",
+    "757-300",
+    "DC-9-30",
+    "MD-87",
+    "A319",
+    "707-320",
+    "737-700",
+    "737-400",
+    "737-800",
+    "DC-8",
+    "737-500",
+    "727-200",
+    "737-600",
+    "MD-90",
+    "A318",
+    "737-200",
+    "Boeing 717",
+    "Tu-134",
+    "A320",
+    "Yak-42",
+    "737-900"
+  ],
+  "wide_body_airliner": [
+    "777-300",
+    "A300B4",
+    "A380",
+    "767-200",
+    "747-300",
+    "A330-200",
+    "747-100",
+    "747-400",
+    "A340-500",
+    "A310",
+    "L-1011",
+    "A340-200",
+    "767-400",
+    "747-200",
+    "A340-300",
+    "A340-600",
+    "767-300",
+    "A330-300",
+    "DC-10"
+  ],
+  "regional_airliner": [
+    "Metroliner",
+    "ATR-42",
+    "ERJ 145",
+    "Fokker 50",
+    "DHC-8-300",
+    "CRJ-900",
+    "DHC-6",
+    "CRJ-700",
+    "Fokker 70",
+    "ATR-72",
+    "EMB-120",
+    "Fokker 100",
+    "Saab 340",
+    "E-195",
+    "E-170",
+    "BAE 146-200",
+    "CRJ-200",
+    "Beechcraft 1900",
+    "Saab 2000",
+    "ERJ 135",
+    "E-190",
+    "Dornier 328",
+    "BAE 146-300"
+  ]
+}

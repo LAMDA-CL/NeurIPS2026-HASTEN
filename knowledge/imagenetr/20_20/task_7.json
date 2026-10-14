@@ -1,0 +1,260 @@
+{
+  "entity": [
+    "physical_entity"
+  ],
+  "physical_entity": [
+    "organism",
+    "artifact",
+    "food",
+    "spider_web",
+    "volcano"
+  ],
+  "organism": [
+    "animal"
+  ],
+  "animal": [
+    "vertebrate",
+    "invertebrate"
+  ],
+  "vertebrate": [
+    "fish",
+    "reptile",
+    "bird",
+    "mammal",
+    "tree_frog",
+    "newt",
+    "axolotl"
+  ],
+  "fish": [
+    "cartilaginous_fish",
+    "goldfish",
+    "puffer_fish",
+    "clown_fish",
+    "eel"
+  ],
+  "cartilaginous_fish": [
+    "hammerhead",
+    "stingray",
+    "great_white_shark"
+  ],
+  "reptile": [
+    "African_chameleon",
+    "cobra",
+    "iguana"
+  ],
+  "bird": [
+    "duck",
+    "goldfinch",
+    "hummingbird",
+    "flamingo",
+    "bald_eagle",
+    "goose",
+    "king_penguin",
+    "ostrich",
+    "pelican",
+    "lorikeet",
+    "junco",
+    "toucan",
+    "hen",
+    "black_swan"
+  ],
+  "mammal": [
+    "primate",
+    "carnivore",
+    "rodent",
+    "skunk",
+    "bison",
+    "panda",
+    "hippopotamus",
+    "grey_whale",
+    "pig",
+    "llama",
+    "gazelle"
+  ],
+  "primate": [
+    "chimpanzee",
+    "baboon",
+    "scuba_diver",
+    "orangutan"
+  ],
+  "carnivore": [
+    "felid",
+    "canid",
+    "hyena",
+    "badger",
+    "meerkat",
+    "sea_lion"
+  ],
+  "felid": [
+    "leopard",
+    "lion",
+    "tiger",
+    "cheetah",
+    "tabby_cat",
+    "snow_leopard"
+  ],
+  "canid": [
+    "domestic_dog",
+    "timber_wolf"
+  ],
+  "domestic_dog": [
+    "bloodhound",
+    "border_collie",
+    "french_bulldog",
+    "labrador_retriever",
+    "whippet",
+    "west_highland_white_terrier",
+    "shih_tzu",
+    "afghan_hound",
+    "collie",
+    "dalmatian",
+    "husky",
+    "toy_poodle",
+    "pembroke_welsh_corgi",
+    "german_shepherd_dog",
+    "scottish_terrier",
+    "weimaraner",
+    "golden_retriever",
+    "saint_bernard",
+    "pomeranian",
+    "rottweiler",
+    "yorkshire_terrier",
+    "italian_greyhound"
+  ],
+  "rodent": [
+    "guinea_pig",
+    "wood_rabbit",
+    "porcupine",
+    "beaver"
+  ],
+  "invertebrate": [
+    "insect",
+    "lobster",
+    "centipede",
+    "scorpion",
+    "starfish",
+    "jellyfish"
+  ],
+  "insect": [
+    "monarch_butterfly",
+    "ant",
+    "grasshopper",
+    "cockroach",
+    "dragonfly",
+    "ladybug",
+    "fly",
+    "bee"
+  ],
+  "artifact": [
+    "tool",
+    "container",
+    "vehicle",
+    "musical_instrument",
+    "optical_device",
+    "protective_equipment",
+    "rugby_ball",
+    "carousel",
+    "lighthouse",
+    "bow_tie",
+    "cowboy_hat",
+    "cannon",
+    "mobile_phone",
+    "castle",
+    "sandal",
+    "soccer_ball",
+    "birdhouse",
+    "scarf",
+    "candle",
+    "barn",
+    "mitten",
+    "lipstick",
+    "revolver",
+    "joystick"
+  ],
+  "tool": [
+    "cutting_tool",
+    "hammer",
+    "broom"
+  ],
+  "cutting_tool": [
+    "hatchet",
+    "lawn_mower",
+    "guillotine"
+  ],
+  "container": [
+    "bottle",
+    "beer_glass",
+    "vase",
+    "mailbox",
+    "backpack",
+    "cauldron",
+    "bathtub",
+    "bucket"
+  ],
+  "bottle": [
+    "wine_bottle"
+  ],
+  "vehicle": [
+    "bus",
+    "pirate_ship",
+    "submarine",
+    "fire_engine",
+    "schooner",
+    "steam_locomotive",
+    "military_aircraft",
+    "jeep",
+    "ambulance",
+    "tank",
+    "pickup_truck",
+    "wheelbarrow",
+    "tractor",
+    "missile"
+  ],
+  "bus": [
+    "school_bus"
+  ],
+  "musical_instrument": [
+    "brass_instrument",
+    "woodwind_instrument",
+    "electric_guitar",
+    "violin",
+    "accordion",
+    "grand_piano",
+    "harmonica",
+    "harp"
+  ],
+  "brass_instrument": [
+    "trombone"
+  ],
+  "woodwind_instrument": [
+    "flute",
+    "saxophone"
+  ],
+  "optical_device": [
+    "binoculars"
+  ],
+  "protective_equipment": [
+    "gasmask",
+    "shield"
+  ],
+  "food": [
+    "prepared_food",
+    "fruit",
+    "broccoli",
+    "mushroom",
+    "cabbage",
+    "cucumber",
+    "bell_pepper"
+  ],
+  "prepared_food": [
+    "pizza",
+    "burrito",
+    "ice_cream",
+    "bagel"
+  ],
+  "fruit": [
+    "banana",
+    "pomegranate",
+    "Granny_Smith"
+  ]
+}

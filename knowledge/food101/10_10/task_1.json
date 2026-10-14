@@ -1,0 +1,33 @@
+{
+  "entity": [
+    "prepared_food"
+  ],
+  "prepared_food": [
+    "savory_dish",
+    "dessert"
+  ],
+  "savory_dish": [
+    "fried calamari",
+    "spring rolls",
+    "hummus",
+    "shrimp and grits",
+    "chicken wings",
+    "eggs benedict",
+    "oysters",
+    "beef carpaccio",
+    "pork chop",
+    "edamame",
+    "hot and sour soup",
+    "sashimi",
+    "grilled cheese sandwich",
+    "prime rib",
+    "ceviche",
+    "cheese plate",
+    "lobster roll sandwich"
+  ],
+  "dessert": [
+    "carrot cake",
+    "chocolate cake",
+    "tiramisu"
+  ]
+}

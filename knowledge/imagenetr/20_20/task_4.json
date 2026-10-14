@@ -1,0 +1,200 @@
+{
+  "entity": [
+    "physical_entity"
+  ],
+  "physical_entity": [
+    "organism",
+    "artifact",
+    "food",
+    "spider_web"
+  ],
+  "organism": [
+    "animal"
+  ],
+  "animal": [
+    "vertebrate",
+    "invertebrate"
+  ],
+  "vertebrate": [
+    "fish",
+    "reptile",
+    "bird",
+    "mammal",
+    "tree_frog",
+    "newt"
+  ],
+  "fish": [
+    "cartilaginous_fish",
+    "goldfish",
+    "puffer_fish",
+    "clown_fish"
+  ],
+  "cartilaginous_fish": [
+    "hammerhead",
+    "stingray"
+  ],
+  "reptile": [
+    "African_chameleon",
+    "cobra",
+    "iguana"
+  ],
+  "bird": [
+    "duck",
+    "goldfinch",
+    "hummingbird",
+    "flamingo",
+    "bald_eagle",
+    "goose"
+  ],
+  "mammal": [
+    "primate",
+    "carnivore",
+    "rodent",
+    "skunk",
+    "bison",
+    "panda",
+    "hippopotamus",
+    "grey_whale",
+    "pig"
+  ],
+  "primate": [
+    "chimpanzee",
+    "baboon",
+    "scuba_diver"
+  ],
+  "carnivore": [
+    "felid",
+    "canid",
+    "hyena",
+    "badger"
+  ],
+  "felid": [
+    "leopard",
+    "lion",
+    "tiger",
+    "cheetah"
+  ],
+  "canid": [
+    "domestic_dog",
+    "timber_wolf"
+  ],
+  "domestic_dog": [
+    "bloodhound",
+    "border_collie",
+    "french_bulldog",
+    "labrador_retriever",
+    "whippet",
+    "west_highland_white_terrier",
+    "shih_tzu",
+    "afghan_hound",
+    "collie",
+    "dalmatian",
+    "husky",
+    "toy_poodle",
+    "pembroke_welsh_corgi",
+    "german_shepherd_dog"
+  ],
+  "rodent": [
+    "guinea_pig",
+    "wood_rabbit"
+  ],
+  "invertebrate": [
+    "insect",
+    "lobster",
+    "centipede",
+    "scorpion",
+    "starfish",
+    "jellyfish"
+  ],
+  "insect": [
+    "monarch_butterfly",
+    "ant",
+    "grasshopper",
+    "cockroach",
+    "dragonfly"
+  ],
+  "artifact": [
+    "tool",
+    "container",
+    "vehicle",
+    "musical_instrument",
+    "optical_device",
+    "protective_equipment",
+    "rugby_ball",
+    "carousel",
+    "lighthouse",
+    "bow_tie",
+    "cowboy_hat",
+    "cannon",
+    "mobile_phone",
+    "castle",
+    "sandal"
+  ],
+  "tool": [
+    "cutting_tool",
+    "hammer"
+  ],
+  "cutting_tool": [
+    "hatchet",
+    "lawn_mower"
+  ],
+  "container": [
+    "bottle",
+    "beer_glass",
+    "vase",
+    "mailbox",
+    "backpack",
+    "cauldron"
+  ],
+  "bottle": [
+    "wine_bottle"
+  ],
+  "vehicle": [
+    "bus",
+    "pirate_ship",
+    "submarine",
+    "fire_engine",
+    "schooner",
+    "steam_locomotive"
+  ],
+  "bus": [
+    "school_bus"
+  ],
+  "musical_instrument": [
+    "brass_instrument",
+    "woodwind_instrument",
+    "electric_guitar",
+    "violin",
+    "accordion"
+  ],
+  "brass_instrument": [
+    "trombone"
+  ],
+  "woodwind_instrument": [
+    "flute"
+  ],
+  "optical_device": [
+    "binoculars"
+  ],
+  "protective_equipment": [
+    "gasmask",
+    "shield"
+  ],
+  "food": [
+    "prepared_food",
+    "fruit",
+    "broccoli",
+    "mushroom",
+    "cabbage",
+    "cucumber",
+    "bell_pepper"
+  ],
+  "prepared_food": [
+    "pizza",
+    "burrito"
+  ],
+  "fruit": [
+    "banana",
+    "pomegranate"
+  ]
+}

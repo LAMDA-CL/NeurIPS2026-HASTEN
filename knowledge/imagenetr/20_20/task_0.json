@@ -1,0 +1,120 @@
+{
+  "entity": [
+    "physical_entity"
+  ],
+  "physical_entity": [
+    "organism",
+    "artifact",
+    "food"
+  ],
+  "organism": [
+    "animal"
+  ],
+  "animal": [
+    "vertebrate",
+    "invertebrate"
+  ],
+  "vertebrate": [
+    "fish",
+    "reptile",
+    "bird",
+    "mammal"
+  ],
+  "fish": [
+    "cartilaginous_fish"
+  ],
+  "cartilaginous_fish": [
+    "hammerhead",
+    "stingray"
+  ],
+  "reptile": [
+    "African_chameleon"
+  ],
+  "bird": [
+    "duck"
+  ],
+  "mammal": [
+    "primate",
+    "carnivore",
+    "rodent"
+  ],
+  "primate": [
+    "chimpanzee"
+  ],
+  "carnivore": [
+    "felid",
+    "canid"
+  ],
+  "felid": [
+    "leopard"
+  ],
+  "canid": [
+    "domestic_dog"
+  ],
+  "domestic_dog": [
+    "bloodhound",
+    "border_collie"
+  ],
+  "rodent": [
+    "guinea_pig"
+  ],
+  "invertebrate": [
+    "insect"
+  ],
+  "insect": [
+    "monarch_butterfly"
+  ],
+  "artifact": [
+    "tool",
+    "container",
+    "vehicle",
+    "musical_instrument",
+    "optical_device",
+    "protective_equipment"
+  ],
+  "tool": [
+    "cutting_tool"
+  ],
+  "cutting_tool": [
+    "hatchet"
+  ],
+  "container": [
+    "bottle"
+  ],
+  "bottle": [
+    "wine_bottle"
+  ],
+  "vehicle": [
+    "bus"
+  ],
+  "bus": [
+    "school_bus"
+  ],
+  "musical_instrument": [
+    "brass_instrument",
+    "woodwind_instrument"
+  ],
+  "brass_instrument": [
+    "trombone"
+  ],
+  "woodwind_instrument": [
+    "flute"
+  ],
+  "optical_device": [
+    "binoculars"
+  ],
+  "protective_equipment": [
+    "gasmask"
+  ],
+  "food": [
+    "prepared_food",
+    "fruit"
+  ],
+  "prepared_food": [
+    "pizza",
+    "burrito"
+  ],
+  "fruit": [
+    "banana"
+  ]
+}

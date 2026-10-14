@@ -1,0 +1,160 @@
+{
+  "entity": [
+    "physical_entity"
+  ],
+  "physical_entity": [
+    "organism",
+    "artifact",
+    "food"
+  ],
+  "organism": [
+    "animal"
+  ],
+  "animal": [
+    "vertebrate",
+    "invertebrate"
+  ],
+  "vertebrate": [
+    "fish",
+    "reptile",
+    "bird",
+    "mammal",
+    "tree_frog"
+  ],
+  "fish": [
+    "cartilaginous_fish",
+    "goldfish",
+    "puffer_fish"
+  ],
+  "cartilaginous_fish": [
+    "hammerhead",
+    "stingray"
+  ],
+  "reptile": [
+    "African_chameleon",
+    "cobra"
+  ],
+  "bird": [
+    "duck",
+    "goldfinch",
+    "hummingbird"
+  ],
+  "mammal": [
+    "primate",
+    "carnivore",
+    "rodent",
+    "skunk",
+    "bison",
+    "panda",
+    "hippopotamus"
+  ],
+  "primate": [
+    "chimpanzee",
+    "baboon"
+  ],
+  "carnivore": [
+    "felid",
+    "canid"
+  ],
+  "felid": [
+    "leopard",
+    "lion"
+  ],
+  "canid": [
+    "domestic_dog",
+    "timber_wolf"
+  ],
+  "domestic_dog": [
+    "bloodhound",
+    "border_collie",
+    "french_bulldog",
+    "labrador_retriever",
+    "whippet",
+    "west_highland_white_terrier",
+    "shih_tzu",
+    "afghan_hound"
+  ],
+  "rodent": [
+    "guinea_pig",
+    "wood_rabbit"
+  ],
+  "invertebrate": [
+    "insect",
+    "lobster",
+    "centipede",
+    "scorpion"
+  ],
+  "insect": [
+    "monarch_butterfly",
+    "ant",
+    "grasshopper"
+  ],
+  "artifact": [
+    "tool",
+    "container",
+    "vehicle",
+    "musical_instrument",
+    "optical_device",
+    "protective_equipment",
+    "rugby_ball",
+    "carousel",
+    "lighthouse"
+  ],
+  "tool": [
+    "cutting_tool"
+  ],
+  "cutting_tool": [
+    "hatchet",
+    "lawn_mower"
+  ],
+  "container": [
+    "bottle",
+    "beer_glass"
+  ],
+  "bottle": [
+    "wine_bottle"
+  ],
+  "vehicle": [
+    "bus",
+    "pirate_ship",
+    "submarine",
+    "fire_engine",
+    "schooner"
+  ],
+  "bus": [
+    "school_bus"
+  ],
+  "musical_instrument": [
+    "brass_instrument",
+    "woodwind_instrument",
+    "electric_guitar",
+    "violin"
+  ],
+  "brass_instrument": [
+    "trombone"
+  ],
+  "woodwind_instrument": [
+    "flute"
+  ],
+  "optical_device": [
+    "binoculars"
+  ],
+  "protective_equipment": [
+    "gasmask"
+  ],
+  "food": [
+    "prepared_food",
+    "fruit",
+    "broccoli",
+    "mushroom",
+    "cabbage",
+    "cucumber"
+  ],
+  "prepared_food": [
+    "pizza",
+    "burrito"
+  ],
+  "fruit": [
+    "banana"
+  ]
+}

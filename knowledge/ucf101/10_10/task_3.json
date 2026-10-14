@@ -1,0 +1,68 @@
+{
+  "entity": [
+    "physical_activity"
+  ],
+  "physical_activity": [
+    "sport",
+    "sport_technique",
+    "exercise",
+    "culinary_skill",
+    "locomotor_movement",
+    "Shaving Beard",
+    "Haircut",
+    "Mopping Floor",
+    "Knitting",
+    "Playing Flute",
+    "Playing Daf",
+    "Blow Dry Hair",
+    "Juggling Balls",
+    "Apply Eye Makeup",
+    "Hammering",
+    "Blowing Candles"
+  ],
+  "sport": [
+    "Ice Dancing",
+    "Cliff Diving",
+    "Throw Discus",
+    "Hammer Throw",
+    "Sumo Wrestling",
+    "Skate Boarding",
+    "Bowling",
+    "High Jump",
+    "Parallel Bars",
+    "Long Jump",
+    "Fencing",
+    "Surfing",
+    "Shotput",
+    "Basketball",
+    "Balance Beam",
+    "Rock Climbing Indoor",
+    "Biking"
+  ],
+  "sport_technique": [
+    "Table Tennis Shot",
+    "Basketball Dunk"
+  ],
+  "exercise": [
+    "weightlifting_exercise",
+    "bodyweight_exercise",
+    "Boxing Punching Bag",
+    "Jump Rope"
+  ],
+  "weightlifting_exercise": [
+    "Clean And Jerk"
+  ],
+  "bodyweight_exercise": [
+    "Body Weight Squats",
+    "Pull Ups",
+    "Wall Pushups",
+    "Lunges"
+  ],
+  "culinary_skill": [
+    "Pizza Tossing",
+    "Cutting In Kitchen"
+  ],
+  "locomotor_movement": [
+    "Baby Crawling"
+  ]
+}

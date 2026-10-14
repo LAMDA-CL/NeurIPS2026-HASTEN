@@ -1,0 +1,75 @@
+{
+  "entity": [
+    "bird"
+  ],
+  "bird": [
+    "tern",
+    "warbler",
+    "wren",
+    "bunting",
+    "puffin",
+    "albatross",
+    "oriole",
+    "cormorant",
+    "ani",
+    "swallow",
+    "grosbeak",
+    "sparrow",
+    "jay",
+    "merganser",
+    "tanager",
+    "woodpecker",
+    "Frigatebird"
+  ],
+  "tern": [
+    "Elegant Tern"
+  ],
+  "warbler": [
+    "Prothonotary Warbler",
+    "Blue winged Warbler",
+    "Orange crowned Warbler"
+  ],
+  "wren": [
+    "Cactus Wren",
+    "Carolina Wren"
+  ],
+  "bunting": [
+    "Lazuli Bunting"
+  ],
+  "puffin": [
+    "Horned Puffin"
+  ],
+  "albatross": [
+    "Sooty Albatross"
+  ],
+  "oriole": [
+    "Baltimore Oriole"
+  ],
+  "cormorant": [
+    "Red faced Cormorant"
+  ],
+  "ani": [
+    "Groove billed Ani"
+  ],
+  "swallow": [
+    "Tree Swallow"
+  ],
+  "grosbeak": [
+    "Pine Grosbeak"
+  ],
+  "sparrow": [
+    "Henslow Sparrow"
+  ],
+  "jay": [
+    "Florida Jay"
+  ],
+  "merganser": [
+    "Hooded Merganser"
+  ],
+  "tanager": [
+    "Scarlet Tanager"
+  ],
+  "woodpecker": [
+    "Downy Woodpecker"
+  ]
+}

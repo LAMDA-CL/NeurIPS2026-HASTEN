@@ -1,0 +1,251 @@
+{
+  "entity": [
+    "organism",
+    "artifact",
+    "natural_structure"
+  ],
+  "organism": [
+    "animal",
+    "plant",
+    "fungus"
+  ],
+  "animal": [
+    "mammal",
+    "bird",
+    "reptile",
+    "amphibian",
+    "fish",
+    "arthropod",
+    "echinoderm",
+    "cnidarian"
+  ],
+  "mammal": [
+    "primate",
+    "carnivoran",
+    "rodent",
+    "lagomorph",
+    "ungulate",
+    "marine_mammal"
+  ],
+  "primate": [
+    "chimpanzee",
+    "baboon",
+    "human"
+  ],
+  "human": [
+    "scuba_diver"
+  ],
+  "carnivoran": [
+    "feline",
+    "canid",
+    "mustelid",
+    "skunk",
+    "hyena",
+    "panda"
+  ],
+  "feline": [
+    "leopard",
+    "lion",
+    "tiger",
+    "cheetah"
+  ],
+  "canid": [
+    "dog",
+    "timber_wolf"
+  ],
+  "dog": [
+    "dog_breed"
+  ],
+  "dog_breed": [
+    "bloodhound",
+    "border_collie",
+    "french_bulldog",
+    "labrador_retriever",
+    "whippet",
+    "west_highland_white_terrier",
+    "shih_tzu",
+    "afghan_hound",
+    "collie",
+    "dalmatian",
+    "husky",
+    "toy_poodle",
+    "pembroke_welsh_corgi",
+    "german_shepherd_dog"
+  ],
+  "mustelid": [
+    "badger"
+  ],
+  "rodent": [
+    "guinea_pig"
+  ],
+  "lagomorph": [
+    "wood_rabbit"
+  ],
+  "ungulate": [
+    "bison",
+    "hippopotamus",
+    "pig"
+  ],
+  "marine_mammal": [
+    "grey_whale"
+  ],
+  "bird": [
+    "duck",
+    "goldfinch",
+    "flamingo",
+    "goose",
+    "hummingbird",
+    "bald_eagle"
+  ],
+  "reptile": [
+    "cobra",
+    "iguana",
+    "African_chameleon"
+  ],
+  "amphibian": [
+    "newt",
+    "tree_frog"
+  ],
+  "fish": [
+    "goldfish",
+    "clown_fish",
+    "puffer_fish",
+    "hammerhead",
+    "stingray"
+  ],
+  "arthropod": [
+    "insect",
+    "arachnid",
+    "crustacean",
+    "myriapod"
+  ],
+  "insect": [
+    "ant",
+    "monarch_butterfly",
+    "grasshopper",
+    "cockroach",
+    "dragonfly"
+  ],
+  "arachnid": [
+    "scorpion"
+  ],
+  "crustacean": [
+    "lobster"
+  ],
+  "myriapod": [
+    "centipede"
+  ],
+  "echinoderm": [
+    "starfish"
+  ],
+  "cnidarian": [
+    "jellyfish"
+  ],
+  "plant": [
+    "fruit",
+    "vegetable"
+  ],
+  "fruit": [
+    "banana",
+    "pomegranate"
+  ],
+  "vegetable": [
+    "cabbage",
+    "broccoli",
+    "bell_pepper",
+    "cucumber"
+  ],
+  "fungus": [
+    "mushroom"
+  ],
+  "natural_structure": [
+    "spider_web"
+  ],
+  "artifact": [
+    "tool_or_implement",
+    "vehicle",
+    "building_or_structure",
+    "container",
+    "musical_instrument",
+    "clothing_or_accessory",
+    "protective_gear",
+    "sports_equipment",
+    "optical_device",
+    "weapon",
+    "bag",
+    "footwear",
+    "communication_device",
+    "recreational_device",
+    "food_item"
+  ],
+  "tool_or_implement": [
+    "hatchet",
+    "hammer",
+    "lawn_mower"
+  ],
+  "vehicle": [
+    "land_vehicle",
+    "watercraft"
+  ],
+  "land_vehicle": [
+    "school_bus",
+    "fire_engine",
+    "steam_locomotive"
+  ],
+  "watercraft": [
+    "pirate_ship",
+    "schooner",
+    "submarine"
+  ],
+  "building_or_structure": [
+    "castle",
+    "lighthouse"
+  ],
+  "container": [
+    "wine_bottle",
+    "beer_glass",
+    "vase",
+    "mailbox",
+    "cauldron"
+  ],
+  "musical_instrument": [
+    "trombone",
+    "flute",
+    "electric_guitar",
+    "violin",
+    "accordion"
+  ],
+  "clothing_or_accessory": [
+    "bow_tie",
+    "cowboy_hat"
+  ],
+  "protective_gear": [
+    "gasmask",
+    "shield"
+  ],
+  "sports_equipment": [
+    "rugby_ball"
+  ],
+  "optical_device": [
+    "binoculars"
+  ],
+  "weapon": [
+    "cannon"
+  ],
+  "bag": [
+    "backpack"
+  ],
+  "footwear": [
+    "sandal"
+  ],
+  "communication_device": [
+    "mobile_phone"
+  ],
+  "recreational_device": [
+    "carousel"
+  ],
+  "food_item": [
+    "pizza",
+    "burrito"
+  ]
+}

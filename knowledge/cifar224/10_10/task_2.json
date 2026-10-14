@@ -1,0 +1,55 @@
+{
+  "entity": [
+    "organism",
+    "artifact",
+    "natural_feature"
+  ],
+  "organism": [
+    "animal",
+    "plant"
+  ],
+  "animal": [
+    "lion",
+    "butterfly",
+    "fox",
+    "chimpanzee",
+    "bear",
+    "snail",
+    "spider",
+    "woman",
+    "camel",
+    "man",
+    "mouse",
+    "crocodile",
+    "lobster",
+    "snake"
+  ],
+  "plant": [
+    "tulip",
+    "pear",
+    "orchid",
+    "pine tree",
+    "palm tree"
+  ],
+  "artifact": [
+    "vehicle",
+    "furniture",
+    "telephone",
+    "can",
+    "plate",
+    "keyboard",
+    "bridge",
+    "television"
+  ],
+  "vehicle": [
+    "tractor",
+    "rocket"
+  ],
+  "furniture": [
+    "chair"
+  ],
+  "natural_feature": [
+    "forest",
+    "mountain"
+  ]
+}

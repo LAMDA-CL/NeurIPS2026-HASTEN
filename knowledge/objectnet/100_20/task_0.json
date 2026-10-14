@@ -1,0 +1,203 @@
+{
+  "entity": [
+    "physical_object"
+  ],
+  "physical_object": [
+    "natural_object",
+    "artifact"
+  ],
+  "natural_object": [
+    "leaf"
+  ],
+  "artifact": [
+    "container",
+    "clothing_or_accessory",
+    "kitchen_tool_or_utensil",
+    "cooking_vessel_or_bakeware",
+    "appliance_or_machine",
+    "electronic_device",
+    "lighting_device",
+    "furniture",
+    "stationery_or_office_supply",
+    "hygiene_or_personal_care_item",
+    "cleaning_item",
+    "food_item",
+    "toy_or_game",
+    "vehicle",
+    "sports_or_outdoor_equipment",
+    "lock_or_security_device",
+    "money_item",
+    "art_or_decor_item",
+    "hand_tool",
+    "bag_or_luggage",
+    "textile_item",
+    "grooming_tool",
+    "document_or_publication",
+    "component_or_accessory",
+    "fastener_or_clip",
+    "household_accessory",
+    "medical_or_safety_item",
+    "bedding_item",
+    "hanger_or_rack",
+    "tableware"
+  ],
+  "container": [
+    "plastic bag",
+    "flour container",
+    "honey container",
+    "paint can",
+    "beer bottle",
+    "cooking oil bottle",
+    "beer can",
+    "box",
+    "basket",
+    "pet food container",
+    "jar"
+  ],
+  "clothing_or_accessory": [
+    "belt",
+    "blouse",
+    "leggings",
+    "dress shoe men",
+    "dress shoe women",
+    "boots"
+  ],
+  "kitchen_tool_or_utensil": [
+    "oven mitts",
+    "can opener",
+    "chopstick",
+    "butchers knife",
+    "measuring cup",
+    "bottle opener",
+    "ladle"
+  ],
+  "cooking_vessel_or_bakeware": [
+    "baking sheet",
+    "frying pan",
+    "kettle"
+  ],
+  "appliance_or_machine": [
+    "hair dryer",
+    "iron for clothes",
+    "coffee machine",
+    "coffee grinder"
+  ],
+  "electronic_device": [
+    "laptop open",
+    "phone landline",
+    "keyboard",
+    "computer mouse"
+  ],
+  "lighting_device": [
+    "desk lamp",
+    "light bulb",
+    "night light"
+  ],
+  "furniture": [
+    "bench"
+  ],
+  "stationery_or_office_supply": [
+    "paper",
+    "pencil",
+    "notebook",
+    "marker",
+    "pen",
+    "eraser white board",
+    "document folder closed",
+    "envelope"
+  ],
+  "hygiene_or_personal_care_item": [
+    "loofah",
+    "nail polish"
+  ],
+  "cleaning_item": [
+    "dish soap",
+    "dust pan"
+  ],
+  "food_item": [
+    "egg",
+    "ice",
+    "lemon",
+    "coffee beans",
+    "cheese",
+    "canned food",
+    "cereal",
+    "butter",
+    "chocolate"
+  ],
+  "toy_or_game": [
+    "board game"
+  ],
+  "vehicle": [
+    "bicycle"
+  ],
+  "sports_or_outdoor_equipment": [
+    "baseball bat",
+    "helmet"
+  ],
+  "lock_or_security_device": [
+    "padlock",
+    "combination lock"
+  ],
+  "money_item": [
+    "bills money"
+  ],
+  "art_or_decor_item": [
+    "figurine or statue"
+  ],
+  "hand_tool": [
+    "pliers",
+    "drill",
+    "multitool"
+  ],
+  "bag_or_luggage": [
+    "backpack",
+    "briefcase"
+  ],
+  "textile_item": [
+    "full sized towel"
+  ],
+  "grooming_tool": [
+    "nail file",
+    "hair brush",
+    "hand mirror"
+  ],
+  "document_or_publication": [
+    "newspaper"
+  ],
+  "component_or_accessory": [
+    "mouse pad",
+    "extension cable",
+    "cork",
+    "battery",
+    "laptop charger"
+  ],
+  "fastener_or_clip": [
+    "nail fastener",
+    "hairclip"
+  ],
+  "household_accessory": [
+    "air freshener",
+    "lampshade"
+  ],
+  "medical_or_safety_item": [
+    "first aid kit"
+  ],
+  "bedding_item": [
+    "blanket",
+    "dog bed"
+  ],
+  "hanger_or_rack": [
+    "drying rack for clothes",
+    "drying rack for dishes",
+    "clothes hanger"
+  ],
+  "tableware": [
+    "plastic cup",
+    "mug",
+    "pitcher",
+    "pepper shaker",
+    "placemat",
+    "drinking straw"
+  ]
+}

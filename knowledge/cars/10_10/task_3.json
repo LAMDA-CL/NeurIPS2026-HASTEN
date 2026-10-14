@@ -1,0 +1,83 @@
+{
+  "entity": [
+    "motor_vehicle"
+  ],
+  "motor_vehicle": [
+    "car",
+    "pickup_truck",
+    "van"
+  ],
+  "car": [
+    "sedan",
+    "coupe",
+    "suv",
+    "sports_car",
+    "convertible",
+    "hatchback",
+    "wagon"
+  ],
+  "pickup_truck": [
+    "regular_cab_pickup_truck",
+    "crew_cab_pickup_truck"
+  ],
+  "sedan": [
+    "Bentley Mulsanne Sedan 2011",
+    "Audi S6 Sedan 2011",
+    "Acura TL Sedan 2012",
+    "Buick Verano Sedan 2012",
+    "Dodge Charger SRT-8 2009",
+    "Audi S4 Sedan 2007",
+    "Bentley Continental Flying Spur Sedan 2007",
+    "Cadillac CTS-V Sedan 2012",
+    "BMW 3 Series Sedan 2012",
+    "Dodge Charger Sedan 2012",
+    "Audi V8 Sedan 1994",
+    "Acura TL Type-S 2008"
+  ],
+  "suv": [
+    "Dodge Journey SUV 2012",
+    "BMW X3 SUV 2012",
+    "Buick Enclave SUV 2012",
+    "AM General Hummer SUV 2000",
+    "Chevrolet TrailBlazer SS 2009",
+    "BMW X5 SUV 2007"
+  ],
+  "coupe": [
+    "Audi R8 Coupe 2012",
+    "Audi TTS Coupe 2012",
+    "Bugatti Veyron 16.4 Coupe 2009",
+    "Aston Martin V8 Vantage Coupe 2012",
+    "Aston Martin Virage Coupe 2012",
+    "Audi A5 Coupe 2012"
+  ],
+  "sports_car": [
+    "Chevrolet Corvette Ron Fellows Edition Z06 2007"
+  ],
+  "regular_cab_pickup_truck": [
+    "Chevrolet Silverado 1500 Regular Cab 2012"
+  ],
+  "crew_cab_pickup_truck": [
+    "Dodge Dakota Crew Cab 2010",
+    "Cadillac Escalade EXT Crew Cab 2007"
+  ],
+  "convertible": [
+    "Chrysler Crossfire Convertible 2008",
+    "BMW M6 Convertible 2010",
+    "Chevrolet Camaro Convertible 2012",
+    "Chrysler Sebring Convertible 2010",
+    "Audi RS 4 Convertible 2008",
+    "Chevrolet Corvette Convertible 2012",
+    "Chrysler PT Cruiser Convertible 2008",
+    "Aston Martin V8 Vantage Convertible 2012"
+  ],
+  "hatchback": [
+    "FIAT 500 Abarth 2012",
+    "Chevrolet HHR SS 2010"
+  ],
+  "van": [
+    "Chevrolet Express Cargo Van 2007"
+  ],
+  "wagon": [
+    "Audi 100 Wagon 1994"
+  ]
+}

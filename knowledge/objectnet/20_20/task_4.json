@@ -1,0 +1,167 @@
+{
+  "entity": [
+    "physical_object"
+  ],
+  "physical_object": [
+    "material",
+    "substance",
+    "biological_item",
+    "tool",
+    "container",
+    "clothing",
+    "hardware",
+    "kitchenware",
+    "household_item",
+    "eating_utensil"
+  ],
+  "material": [
+    "paper",
+    "cork",
+    "newspaper"
+  ],
+  "substance": [
+    "ice",
+    "dish soap",
+    "nail polish"
+  ],
+  "biological_item": [
+    "food",
+    "leaf"
+  ],
+  "food": [
+    "egg",
+    "lemon",
+    "coffee beans",
+    "cheese",
+    "canned food",
+    "cereal",
+    "butter",
+    "chocolate"
+  ],
+  "tool": [
+    "kitchen_tool",
+    "personal_care_tool",
+    "pencil",
+    "marker",
+    "baseball bat",
+    "pen",
+    "dust pan",
+    "eraser white board",
+    "pliers",
+    "drill",
+    "multitool"
+  ],
+  "kitchen_tool": [
+    "can opener",
+    "bottle opener",
+    "butchers knife",
+    "measuring cup",
+    "coffee grinder",
+    "ladle"
+  ],
+  "personal_care_tool": [
+    "loofah",
+    "hair dryer",
+    "nail file",
+    "hair brush",
+    "hand mirror"
+  ],
+  "container": [
+    "bag",
+    "drinkware",
+    "flour container",
+    "honey container",
+    "paint can",
+    "cooking oil bottle",
+    "pepper shaker",
+    "beer can",
+    "box",
+    "document folder closed",
+    "basket",
+    "envelope",
+    "pet food container",
+    "jar"
+  ],
+  "bag": [
+    "plastic bag",
+    "backpack",
+    "briefcase"
+  ],
+  "drinkware": [
+    "plastic cup",
+    "pitcher",
+    "beer bottle",
+    "mug"
+  ],
+  "clothing": [
+    "upper_body_clothing",
+    "legwear",
+    "clothing_accessory"
+  ],
+  "upper_body_clothing": [
+    "blouse"
+  ],
+  "legwear": [
+    "leggings",
+    "boots"
+  ],
+  "clothing_accessory": [
+    "belt",
+    "oven mitts",
+    "dress shoe men",
+    "dress shoe women",
+    "helmet",
+    "hairclip"
+  ],
+  "hardware": [
+    "nail fastener",
+    "extension cable",
+    "battery",
+    "padlock",
+    "laptop charger",
+    "computer mouse",
+    "combination lock"
+  ],
+  "kitchenware": [
+    "baking sheet",
+    "frying pan",
+    "drying rack for dishes",
+    "coffee machine",
+    "kettle",
+    "placemat"
+  ],
+  "household_item": [
+    "lighting_device",
+    "laundry_item",
+    "figurine or statue",
+    "laptop open",
+    "phone landline",
+    "mouse pad",
+    "notebook",
+    "air freshener",
+    "bills money",
+    "bench",
+    "keyboard",
+    "bicycle",
+    "board game",
+    "first aid kit",
+    "dog bed",
+    "lampshade"
+  ],
+  "lighting_device": [
+    "desk lamp",
+    "light bulb",
+    "night light"
+  ],
+  "laundry_item": [
+    "drying rack for clothes",
+    "full sized towel",
+    "blanket",
+    "iron for clothes",
+    "clothes hanger"
+  ],
+  "eating_utensil": [
+    "chopstick",
+    "drinking straw"
+  ]
+}

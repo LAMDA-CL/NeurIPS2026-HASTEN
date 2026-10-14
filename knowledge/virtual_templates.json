@@ -1,0 +1,98 @@
+{
+  "objectnet": [
+    "the visual category {}",
+    "images from the {} category",
+    "objects belonging to the {} class",
+    "examples of the {} category",
+    "a group of objects: {}",
+    "visual concept: {}"
+  ],
+  "imagenetr": [
+    "the visual category {}",
+    "rendered depictions from the {} category",
+    "sketches or cartoons of the {} category",
+    "artistic renditions from the {} class",
+    "images from the {} category",
+    "visual concept: {}"
+  ],
+  "food101": [
+    "the food category {}",
+    "dishes from the {} category",
+    "food items belonging to {}",
+    "cuisine type: {}",
+    "dish type: {}",
+    "culinary concept: {}"
+  ],
+  "cifar224": [
+    "the visual category {}",
+    "images from the {} category",
+    "objects belonging to the {} class",
+    "examples of the {} category",
+    "object group: {}",
+    "visual concept: {}"
+  ],
+  "cub": [
+    "the bird category {}",
+    "avian category: {}",
+    "bird family {}",
+    "a group of birds: {}",
+    "bird taxonomic class: {}",
+    "ornithology concept: {}"
+  ],
+  "imagenet": [
+    "the visual category {}",
+    "images from the {} category",
+    "objects belonging to the {} class",
+    "examples of the {} category",
+    "object group: {}",
+    "visual concept: {}"
+  ],
+  "ucf101": [
+    "the activity category {}",
+    "an action category: {}",
+    "videos from the {} activity class",
+    "human activities grouped as {}",
+    "motion category: {}",
+    "the skill/sport category {}"
+  ],
+  "flowers": [
+    "the flower category {}",
+    "botanical category: {}",
+    "flower family {}",
+    "a group of flowers: {}",
+    "plant taxonomy concept: {}",
+    "floral category {}"
+  ],
+  "caltech101": [
+    "the object category {}",
+    "images from the {} category",
+    "objects belonging to the {} class",
+    "visual concept: {}",
+    "object group: {}",
+    "examples of the {} category"
+  ],
+  "aircraft": [
+    "the aircraft category {}",
+    "aircraft type: {}",
+    "airframe family {}",
+    "airplane category {}",
+    "models belonging to the {} class",
+    "aviation concept: {}"
+  ],
+  "cars": [
+    "the vehicle category {}",
+    "car category {}",
+    "automobile class {}",
+    "model family {}",
+    "vehicles belonging to the {} class",
+    "automotive concept: {}"
+  ],
+  "sun": [
+    "the scene category {}",
+    "images of scenes belonging to {}",
+    "environment category: {}",
+    "place category: {}",
+    "indoor/outdoor scene type {}",
+    "visual concept of place: {}"
+  ]
+}

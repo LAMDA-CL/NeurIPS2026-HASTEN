@@ -1,0 +1,222 @@
+{
+  "entity": [
+    "natural_feature",
+    "human_made_place",
+    "vehicle"
+  ],
+  "natural_feature": [
+    "landform",
+    "water_body",
+    "ecosystem",
+    "cryospheric_feature"
+  ],
+  "landform": [
+    "cliff",
+    "coast",
+    "hill",
+    "canyon",
+    "islet"
+  ],
+  "cliff": [
+    "sea cliff"
+  ],
+  "water_body": [
+    "river",
+    "fishpond",
+    "bayou"
+  ],
+  "ecosystem": [
+    "rainforest",
+    "bamboo forest"
+  ],
+  "cryospheric_feature": [
+    "ice shelf",
+    "iceberg",
+    "crevasse"
+  ],
+  "human_made_place": [
+    "building_or_complex",
+    "interior_space",
+    "transportation_infrastructure",
+    "recreational_facility",
+    "commercial_area",
+    "industrial_facility",
+    "waste_site",
+    "excavation_site",
+    "agricultural_area",
+    "building facade",
+    "arch",
+    "plaza",
+    "residential neighborhood",
+    "cemetery"
+  ],
+  "building_or_complex": [
+    "planetarium",
+    "igloo",
+    "art school",
+    "cloister",
+    "kasbah",
+    "conference center",
+    "boathouse",
+    "observatory",
+    "booth",
+    "church",
+    "palace",
+    "mausoleum",
+    "archive",
+    "abbey",
+    "pavilion",
+    "schoolhouse",
+    "courthouse",
+    "parking garage",
+    "chicken coop",
+    "gazebo",
+    "airport terminal",
+    "mosque",
+    "pagoda",
+    "house",
+    "art gallery",
+    "greenhouse",
+    "campus",
+    "control tower",
+    "chalet"
+  ],
+  "interior_space": [
+    "room",
+    "corridor",
+    "atrium",
+    "cubicle",
+    "elevator shaft",
+    "cockpit",
+    "boat deck",
+    "balcony"
+  ],
+  "room": [
+    "dorm room",
+    "dining room",
+    "parlor",
+    "galley",
+    "living room",
+    "locker room",
+    "classroom",
+    "burial chamber",
+    "attic",
+    "game room",
+    "lecture room",
+    "office",
+    "music studio",
+    "operating room",
+    "courtroom",
+    "bedroom",
+    "poolroom",
+    "computer room",
+    "hospital room",
+    "hotel room",
+    "kitchenette"
+  ],
+  "transportation_infrastructure": [
+    "railroad track",
+    "driveway",
+    "escalator",
+    "covered bridge",
+    "alley",
+    "dock",
+    "highway",
+    "harbor",
+    "lift bridge",
+    "elevator",
+    "boardwalk"
+  ],
+  "recreational_facility": [
+    "sports_facility",
+    "labyrinth",
+    "carrousel",
+    "picnic area",
+    "ski resort",
+    "formal garden",
+    "jacuzzi",
+    "casino",
+    "ball pit",
+    "amusement park",
+    "cottage garden",
+    "hot tub",
+    "sandbox",
+    "campsite",
+    "amusement arcade",
+    "botanical garden"
+  ],
+  "sports_facility": [
+    "basketball court",
+    "putting green",
+    "riding arena",
+    "ice skating rink",
+    "firing range",
+    "bowling alley",
+    "driving range",
+    "fairway",
+    "martial arts gym"
+  ],
+  "commercial_area": [
+    "coffee shop",
+    "food court",
+    "gas station",
+    "bazaar",
+    "music store",
+    "clothing store",
+    "shoe shop",
+    "jewelry shop",
+    "butchers shop",
+    "restaurant patio",
+    "shopping mall",
+    "diner",
+    "general store",
+    "bar",
+    "beauty salon",
+    "fastfood restaurant",
+    "bookstore",
+    "florist shop",
+    "laundromat"
+  ],
+  "industrial_facility": [
+    "assembly line",
+    "electrical substation",
+    "auto factory",
+    "cheese factory",
+    "brewery",
+    "nuclear power plant",
+    "factory"
+  ],
+  "waste_site": [
+    "garbage dump"
+  ],
+  "excavation_site": [
+    "excavation"
+  ],
+  "vehicle": [
+    "watercraft"
+  ],
+  "watercraft": [
+    "raft"
+  ],
+  "agricultural_area": [
+    "rice paddy",
+    "hayfield",
+    "orchard",
+    "corn field"
+  ],
+  "airport terminal": [
+    "arrival gate"
+  ],
+  "booth": [
+    "phone booth"
+  ],
+  "coast": [
+    "beach"
+  ],
+  "boat deck": [
+    "lido deck"
+  ],
+  "residential neighborhood": [
+    "medina"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "entity": [
+    "aircraft"
+  ],
+  "aircraft": [
+    "airplane"
+  ],
+  "airplane": [
+    "military_aircraft",
+    "general_aviation_aircraft",
+    "commercial_airliner"
+  ],
+  "military_aircraft": [
+    "military_transport_aircraft",
+    "military_trainer_aircraft"
+  ],
+  "military_transport_aircraft": [
+    "C-47"
+  ],
+  "military_trainer_aircraft": [
+    "DH-82"
+  ],
+  "general_aviation_aircraft": [
+    "SR-20",
+    "Cessna 525",
+    "Global Express",
+    "BAE-125",
+    "Cessna 560"
+  ],
+  "commercial_airliner": [
+    "narrow_body_airliner",
+    "wide_body_airliner",
+    "regional_airliner"
+  ],
+  "narrow_body_airliner": [
+    "757-200",
+    "737-300",
+    "DC-6",
+    "MD-80",
+    "Tu-154",
+    "757-300",
+    "DC-9-30",
+    "MD-87"
+  ],
+  "wide_body_airliner": [
+    "777-300",
+    "A300B4",
+    "A380",
+    "767-200",
+    "747-300",
+    "A330-200"
+  ],
+  "regional_airliner": [
+    "Metroliner",
+    "ATR-42",
+    "ERJ 145",
+    "Fokker 50",
+    "DHC-8-300",
+    "CRJ-900",
+    "DHC-6",
+    "CRJ-700",
+    "Fokker 70"
+  ]
+}

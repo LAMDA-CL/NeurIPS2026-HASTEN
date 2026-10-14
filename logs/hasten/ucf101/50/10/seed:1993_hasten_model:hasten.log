@@ -1,0 +1,82 @@
+2026-02-22 23:19:18,806 [trainer.py] => prefix: -
+2026-02-22 23:19:18,807 [trainer.py] => dataset: ucf101
+2026-02-22 23:19:18,807 [trainer.py] => shuffle: True
+2026-02-22 23:19:18,807 [trainer.py] => init_cls: 50
+2026-02-22 23:19:18,807 [trainer.py] => increment: 10
+2026-02-22 23:19:18,807 [trainer.py] => model_name: hasten
+2026-02-22 23:19:18,807 [trainer.py] => convnet_type: clip
+2026-02-22 23:19:18,807 [trainer.py] => device: [device(type='cuda', index=0)]
+2026-02-22 23:19:18,808 [trainer.py] => seed: 1993
+2026-02-22 23:19:18,808 [trainer.py] => projection_type: pure_mlp
+2026-02-22 23:19:18,808 [trainer.py] => frozen_layers: visual
+2026-02-22 23:19:18,808 [trainer.py] => tuned_epoch: 10
+2026-02-22 23:19:18,808 [trainer.py] => init_lr: 0.001
+2026-02-22 23:19:18,808 [trainer.py] => batch_size: 64
+2026-02-22 23:19:18,808 [trainer.py] => weight_decay: 0.001
+2026-02-22 23:19:18,808 [trainer.py] => min_lr: 0
+2026-02-22 23:19:18,808 [trainer.py] => optimizer: adam
+2026-02-22 23:19:18,808 [trainer.py] => stat: 0.85
+2026-02-22 23:19:18,808 [trainer.py] => sample_num: 0
+2026-02-22 23:19:18,808 [trainer.py] => config: exps/hastenre/ucf_50_10.json
+2026-02-22 23:19:18,808 [trainer.py] => project_name: hasten
+2026-02-22 23:19:18,808 [trainer.py] => hierarchy_weight: 0.5
+2026-02-22 23:19:18,808 [trainer.py] => reg_weight: 0.1
+2026-02-22 23:19:18,808 [trainer.py] => entail_weight: 0.1
+2026-02-22 23:19:18,808 [trainer.py] => margin: 0.2
+2026-02-22 23:19:18,808 [trainer.py] => mapping_mode: mlp
+2026-02-22 23:19:18,809 [trainer.py] => project_grad: True
+2026-02-22 23:19:18,809 [trainer.py] => curvature: 1
+2026-02-22 23:19:18,809 [trainer.py] => kcone: 0.1
+2026-02-22 23:19:18,862 [data_manager.py] => [68, 56, 78, 8, 23, 84, 90, 65, 74, 76, 40, 89, 3, 92, 55, 9, 26, 80, 43, 38, 58, 70, 77, 1, 85, 19, 17, 50, 28, 53, 13, 81, 45, 82, 6, 59, 83, 16, 15, 44, 91, 41, 72, 60, 79, 52, 20, 10, 31, 54, 37, 95, 14, 71, 96, 98, 97, 2, 64, 66, 42, 22, 35, 86, 24, 34, 87, 21, 99, 0, 88, 27, 18, 94, 11, 12, 47, 25, 30, 46, 62, 69, 36, 61, 7, 63, 75, 5, 32, 4, 51, 48, 73, 93, 39, 67, 29, 49, 57, 33]
+2026-02-22 23:19:21,446 [factory.py] => Loaded ViT-B-16 model config.
+2026-02-22 23:19:28,225 [factory.py] => Loading pretrained ViT-B-16 weights (laion400m_e32).
+2026-02-22 23:19:28,392 [factory.py] => Loaded ViT-B-16 model config.
+2026-02-22 23:19:37,818 [factory.py] => Loading pretrained ViT-B-16 weights (laion400m_e32).
+2026-02-22 23:19:41,050 [trainer.py] => All params: 149882881
+2026-02-22 23:19:41,051 [trainer.py] => Trainable params: 262144
+2026-02-22 23:19:43,875 [hasten.py] => Learning on 0-50
+2026-02-23 00:04:12,884 [trainer.py] => CNN: {'total': np.float64(98.25), '00-09': np.float64(96.84), '10-19': np.float64(100.0), '20-29': np.float64(98.55), '30-39': np.float64(97.59), '40-49': np.float64(98.18), 'old': 0, 'new': np.float64(98.25), 'harmonic': np.float64(0.0)}
+2026-02-23 00:04:12,884 [trainer.py] => CNN top1 curve: [np.float64(98.25)]
+2026-02-23 00:04:12,884 [trainer.py] => CNN top5 curve: [np.float64(99.92)]
+
+2026-02-23 00:04:12,884 [trainer.py] => Average Accuracy (CNN): 98.25
+2026-02-23 00:04:12,886 [trainer.py] => All params: 150433796
+2026-02-23 00:04:12,887 [trainer.py] => Trainable params: 813059
+2026-02-23 00:04:13,592 [hasten.py] => Learning on 50-60
+2026-02-23 00:21:05,142 [trainer.py] => CNN: {'total': np.float64(97.04), '00-09': np.float64(93.68), '10-19': np.float64(98.46), '20-29': np.float64(97.09), '30-39': np.float64(97.19), '40-49': np.float64(97.08), '50-59': np.float64(98.76), 'old': np.float64(96.72), 'new': np.float64(98.76), 'harmonic': np.float64(97.73)}
+2026-02-23 00:21:05,143 [trainer.py] => CNN top1 curve: [np.float64(98.25), np.float64(97.04)]
+2026-02-23 00:21:05,143 [trainer.py] => CNN top5 curve: [np.float64(99.92), np.float64(99.74)]
+
+2026-02-23 00:21:05,144 [trainer.py] => Average Accuracy (CNN): 97.64500000000001
+2026-02-23 00:21:05,146 [trainer.py] => All params: 150964230
+2026-02-23 00:21:05,147 [trainer.py] => Trainable params: 818179
+2026-02-23 00:21:05,379 [hasten.py] => Learning on 60-70
+2026-02-23 00:41:18,539 [trainer.py] => CNN: {'total': np.float64(95.95), '00-09': np.float64(94.07), '10-19': np.float64(98.46), '20-29': np.float64(94.91), '30-39': np.float64(96.39), '40-49': np.float64(97.08), '50-59': np.float64(96.27), '60-69': np.float64(94.53), 'old': np.float64(96.2), 'new': np.float64(94.53), 'harmonic': np.float64(95.36)}
+2026-02-23 00:41:18,540 [trainer.py] => CNN top1 curve: [np.float64(98.25), np.float64(97.04), np.float64(95.95)]
+2026-02-23 00:41:18,540 [trainer.py] => CNN top5 curve: [np.float64(99.92), np.float64(99.74), np.float64(99.73)]
+
+2026-02-23 00:41:18,540 [trainer.py] => Average Accuracy (CNN): 97.08
+2026-02-23 00:41:18,542 [trainer.py] => All params: 151494664
+2026-02-23 00:41:18,543 [trainer.py] => Trainable params: 823299
+2026-02-23 00:41:19,311 [hasten.py] => Learning on 70-80
+2026-02-23 01:03:39,609 [trainer.py] => CNN: {'total': np.float64(95.21), '00-09': np.float64(93.28), '10-19': np.float64(96.92), '20-29': np.float64(93.45), '30-39': np.float64(94.38), '40-49': np.float64(95.26), '50-59': np.float64(97.1), '60-69': np.float64(93.8), '70-79': np.float64(97.69), 'old': np.float64(94.85), 'new': np.float64(97.69), 'harmonic': np.float64(96.25)}
+2026-02-23 01:03:39,611 [trainer.py] => CNN top1 curve: [np.float64(98.25), np.float64(97.04), np.float64(95.95), np.float64(95.21)]
+2026-02-23 01:03:39,611 [trainer.py] => CNN top5 curve: [np.float64(99.92), np.float64(99.74), np.float64(99.73), np.float64(99.71)]
+
+2026-02-23 01:03:39,611 [trainer.py] => Average Accuracy (CNN): 96.6125
+2026-02-23 01:03:39,613 [trainer.py] => All params: 152025098
+2026-02-23 01:03:39,615 [trainer.py] => Trainable params: 828419
+2026-02-23 01:03:40,681 [hasten.py] => Learning on 80-90
+2026-02-23 01:23:07,949 [trainer.py] => CNN: {'total': np.float64(93.95), '00-09': np.float64(93.28), '10-19': np.float64(95.77), '20-29': np.float64(92.73), '30-39': np.float64(92.77), '40-49': np.float64(95.26), '50-59': np.float64(93.78), '60-69': np.float64(91.61), '70-79': np.float64(95.77), '80-89': np.float64(94.59), 'old': np.float64(93.86), 'new': np.float64(94.59), 'harmonic': np.float64(94.22)}
+2026-02-23 01:23:07,950 [trainer.py] => CNN top1 curve: [np.float64(98.25), np.float64(97.04), np.float64(95.95), np.float64(95.21), np.float64(93.95)]
+2026-02-23 01:23:07,950 [trainer.py] => CNN top5 curve: [np.float64(99.92), np.float64(99.74), np.float64(99.73), np.float64(99.71), np.float64(99.58)]
+
+2026-02-23 01:23:07,950 [trainer.py] => Average Accuracy (CNN): 96.08
+2026-02-23 01:23:07,951 [trainer.py] => All params: 152555532
+2026-02-23 01:23:07,953 [trainer.py] => Trainable params: 833539
+2026-02-23 01:23:08,231 [hasten.py] => Learning on 90-100
+2026-02-23 01:37:39,888 [trainer.py] => CNN: {'total': np.float64(92.91), '00-09': np.float64(91.3), '10-19': np.float64(94.62), '20-29': np.float64(92.36), '30-39': np.float64(94.78), '40-49': np.float64(94.89), '50-59': np.float64(92.95), '60-69': np.float64(94.16), '70-79': np.float64(93.08), '80-89': np.float64(93.92), '90-99': np.float64(86.77), 'old': np.float64(93.58), 'new': np.float64(86.77), 'harmonic': np.float64(90.05)}
+2026-02-23 01:37:39,889 [trainer.py] => CNN top1 curve: [np.float64(98.25), np.float64(97.04), np.float64(95.95), np.float64(95.21), np.float64(93.95), np.float64(92.91)]
+2026-02-23 01:37:39,889 [trainer.py] => CNN top5 curve: [np.float64(99.92), np.float64(99.74), np.float64(99.73), np.float64(99.71), np.float64(99.58), np.float64(99.43)]
+
+2026-02-23 01:37:39,889 [trainer.py] => Average Accuracy (CNN): 95.55166666666666

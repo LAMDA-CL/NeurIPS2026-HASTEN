@@ -1,0 +1,354 @@
+{
+  "entity": [
+    "organism",
+    "artifact",
+    "natural_structure"
+  ],
+  "organism": [
+    "animal",
+    "plant",
+    "fungus"
+  ],
+  "animal": [
+    "mammal",
+    "bird",
+    "reptile",
+    "amphibian",
+    "fish",
+    "arthropod",
+    "echinoderm",
+    "cnidarian",
+    "mollusk"
+  ],
+  "mammal": [
+    "primate",
+    "carnivoran",
+    "rodent",
+    "lagomorph",
+    "ungulate",
+    "marine_mammal",
+    "koala"
+  ],
+  "primate": [
+    "chimpanzee",
+    "baboon",
+    "human",
+    "orangutan",
+    "gorilla",
+    "gibbon"
+  ],
+  "human": [
+    "scuba_diver",
+    "baseball_player"
+  ],
+  "carnivoran": [
+    "feline",
+    "canid",
+    "mustelid",
+    "skunk",
+    "hyena",
+    "panda",
+    "meerkat",
+    "polar_bear"
+  ],
+  "feline": [
+    "leopard",
+    "lion",
+    "tiger",
+    "cheetah",
+    "tabby_cat",
+    "snow_leopard"
+  ],
+  "canid": [
+    "dog",
+    "timber_wolf",
+    "red_fox"
+  ],
+  "dog": [
+    "dog_breed"
+  ],
+  "dog_breed": [
+    "bloodhound",
+    "border_collie",
+    "french_bulldog",
+    "labrador_retriever",
+    "whippet",
+    "west_highland_white_terrier",
+    "shih_tzu",
+    "afghan_hound",
+    "collie",
+    "dalmatian",
+    "husky",
+    "toy_poodle",
+    "pembroke_welsh_corgi",
+    "german_shepherd_dog",
+    "scottish_terrier",
+    "weimaraner",
+    "golden_retriever",
+    "saint_bernard",
+    "pomeranian",
+    "rottweiler",
+    "yorkshire_terrier",
+    "italian_greyhound",
+    "boxer",
+    "pug",
+    "standard_poodle",
+    "basset_hound",
+    "chow_chow",
+    "chihuahua",
+    "beagle",
+    "boston_terrier",
+    "cocker_spaniels"
+  ],
+  "mustelid": [
+    "badger"
+  ],
+  "rodent": [
+    "guinea_pig",
+    "porcupine",
+    "beaver",
+    "fox_squirrel"
+  ],
+  "lagomorph": [
+    "wood_rabbit"
+  ],
+  "ungulate": [
+    "bison",
+    "hippopotamus",
+    "pig",
+    "gazelle",
+    "llama",
+    "zebra"
+  ],
+  "marine_mammal": [
+    "grey_whale",
+    "sea_lion",
+    "killer_whale"
+  ],
+  "bird": [
+    "duck",
+    "goldfinch",
+    "flamingo",
+    "goose",
+    "hummingbird",
+    "bald_eagle",
+    "king_penguin",
+    "ostrich",
+    "pelican",
+    "lorikeet",
+    "junco",
+    "toucan",
+    "hen",
+    "black_swan",
+    "american_egret",
+    "vulture",
+    "peacock"
+  ],
+  "reptile": [
+    "cobra",
+    "iguana",
+    "African_chameleon"
+  ],
+  "amphibian": [
+    "newt",
+    "tree_frog",
+    "axolotl"
+  ],
+  "fish": [
+    "goldfish",
+    "clown_fish",
+    "puffer_fish",
+    "hammerhead",
+    "stingray",
+    "eel",
+    "great_white_shark"
+  ],
+  "arthropod": [
+    "insect",
+    "arachnid",
+    "crustacean",
+    "myriapod"
+  ],
+  "insect": [
+    "ant",
+    "monarch_butterfly",
+    "grasshopper",
+    "cockroach",
+    "dragonfly",
+    "ladybug",
+    "fly",
+    "bee",
+    "mantis"
+  ],
+  "arachnid": [
+    "scorpion",
+    "tarantula"
+  ],
+  "crustacean": [
+    "lobster",
+    "hermit_crab"
+  ],
+  "myriapod": [
+    "centipede"
+  ],
+  "echinoderm": [
+    "starfish"
+  ],
+  "cnidarian": [
+    "jellyfish"
+  ],
+  "mollusk": [
+    "snail"
+  ],
+  "plant": [
+    "fruit",
+    "vegetable"
+  ],
+  "fruit": [
+    "banana",
+    "pomegranate",
+    "Granny_Smith",
+    "lemon",
+    "acorn",
+    "pineapple",
+    "strawberry"
+  ],
+  "vegetable": [
+    "cabbage",
+    "broccoli",
+    "bell_pepper",
+    "cucumber"
+  ],
+  "fungus": [
+    "mushroom"
+  ],
+  "natural_structure": [
+    "spider_web",
+    "volcano"
+  ],
+  "artifact": [
+    "tool_or_implement",
+    "vehicle",
+    "building_or_structure",
+    "container",
+    "musical_instrument",
+    "clothing_or_accessory",
+    "protective_gear",
+    "sports_equipment",
+    "optical_device",
+    "weapon",
+    "bag",
+    "footwear",
+    "communication_device",
+    "recreational_device",
+    "food_item",
+    "candle",
+    "lipstick"
+  ],
+  "tool_or_implement": [
+    "hatchet",
+    "hammer",
+    "lawn_mower",
+    "broom",
+    "wheelbarrow"
+  ],
+  "vehicle": [
+    "land_vehicle",
+    "watercraft",
+    "military_aircraft",
+    "space_shuttle"
+  ],
+  "land_vehicle": [
+    "school_bus",
+    "fire_engine",
+    "steam_locomotive",
+    "jeep",
+    "ambulance",
+    "tank",
+    "pickup_truck",
+    "tractor"
+  ],
+  "watercraft": [
+    "pirate_ship",
+    "schooner",
+    "submarine",
+    "canoe"
+  ],
+  "building_or_structure": [
+    "castle",
+    "lighthouse",
+    "birdhouse",
+    "barn"
+  ],
+  "container": [
+    "wine_bottle",
+    "beer_glass",
+    "vase",
+    "mailbox",
+    "cauldron",
+    "bathtub",
+    "bucket"
+  ],
+  "musical_instrument": [
+    "trombone",
+    "flute",
+    "electric_guitar",
+    "violin",
+    "accordion",
+    "saxophone",
+    "grand_piano",
+    "harmonica",
+    "harp"
+  ],
+  "clothing_or_accessory": [
+    "bow_tie",
+    "cowboy_hat",
+    "scarf",
+    "mitten",
+    "lab_coat"
+  ],
+  "protective_gear": [
+    "gasmask",
+    "shield",
+    "parachute"
+  ],
+  "sports_equipment": [
+    "rugby_ball",
+    "soccer_ball",
+    "tennis_ball",
+    "basketball"
+  ],
+  "optical_device": [
+    "binoculars"
+  ],
+  "weapon": [
+    "cannon",
+    "guillotine",
+    "revolver",
+    "missile",
+    "assault_rifle"
+  ],
+  "bag": [
+    "backpack"
+  ],
+  "footwear": [
+    "sandal"
+  ],
+  "communication_device": [
+    "mobile_phone"
+  ],
+  "recreational_device": [
+    "carousel",
+    "joystick"
+  ],
+  "food_item": [
+    "pizza",
+    "burrito",
+    "ice_cream",
+    "bagel",
+    "espresso",
+    "pretzel",
+    "cheeseburger",
+    "hotdog"
+  ]
+}

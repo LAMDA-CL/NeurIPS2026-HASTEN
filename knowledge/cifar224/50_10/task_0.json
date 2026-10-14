@@ -1,0 +1,132 @@
+{
+  "entity": [
+    "organism",
+    "artifact",
+    "natural_feature"
+  ],
+  "organism": [
+    "animal",
+    "plant",
+    "fungus"
+  ],
+  "animal": [
+    "mammal",
+    "reptile",
+    "fish",
+    "insect",
+    "arachnid",
+    "crustacean",
+    "mollusk"
+  ],
+  "mammal": [
+    "lion",
+    "fox",
+    "chimpanzee",
+    "bear",
+    "camel",
+    "mouse",
+    "beaver",
+    "elephant",
+    "otter",
+    "shrew",
+    "skunk",
+    "human"
+  ],
+  "human": [
+    "man",
+    "woman",
+    "girl"
+  ],
+  "reptile": [
+    "crocodile",
+    "snake"
+  ],
+  "fish": [
+    "shark",
+    "ray"
+  ],
+  "insect": [
+    "butterfly",
+    "beetle",
+    "cockroach"
+  ],
+  "arachnid": [
+    "spider"
+  ],
+  "crustacean": [
+    "lobster"
+  ],
+  "mollusk": [
+    "snail"
+  ],
+  "plant": [
+    "tree",
+    "flowering_plant"
+  ],
+  "tree": [
+    "pine tree",
+    "palm tree"
+  ],
+  "flowering_plant": [
+    "tulip",
+    "orchid",
+    "rose",
+    "sunflower",
+    "apple",
+    "pear"
+  ],
+  "fungus": [
+    "mushroom"
+  ],
+  "natural_feature": [
+    "forest",
+    "mountain"
+  ],
+  "artifact": [
+    "vehicle",
+    "furniture",
+    "tableware",
+    "container",
+    "building",
+    "infrastructure",
+    "device"
+  ],
+  "vehicle": [
+    "tractor",
+    "bicycle",
+    "bus",
+    "rocket"
+  ],
+  "furniture": [
+    "chair",
+    "bed"
+  ],
+  "tableware": [
+    "plate",
+    "bowl"
+  ],
+  "container": [
+    "can"
+  ],
+  "building": [
+    "skyscraper"
+  ],
+  "infrastructure": [
+    "bridge"
+  ],
+  "device": [
+    "electronic_device",
+    "timekeeping_device",
+    "input_device"
+  ],
+  "electronic_device": [
+    "telephone",
+    "television"
+  ],
+  "timekeeping_device": [
+    "clock"
+  ],
+  "input_device": [
+    "keyboard"
+  ]
+}

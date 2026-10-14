@@ -1,0 +1,32 @@
+{
+  "entity": [
+    "organism",
+    "artifact"
+  ],
+  "organism": [
+    "animal",
+    "plant"
+  ],
+  "animal": [
+    "lion",
+    "butterfly",
+    "fox",
+    "chimpanzee",
+    "bear"
+  ],
+  "plant": [
+    "tulip",
+    "pear"
+  ],
+  "artifact": [
+    "vehicle",
+    "furniture"
+  ],
+  "vehicle": [
+    "tractor",
+    "rocket"
+  ],
+  "furniture": [
+    "chair"
+  ]
+}

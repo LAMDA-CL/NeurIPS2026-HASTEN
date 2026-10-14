@@ -1,0 +1,256 @@
+{
+  "entity": [
+    "natural_environment",
+    "built_environment"
+  ],
+  "natural_environment": [
+    "landform",
+    "water_body",
+    "cryosphere_feature",
+    "forest_or_vegetation_area",
+    "agricultural_area"
+  ],
+  "landform": [
+    "excavation",
+    "sea cliff",
+    "cliff",
+    "canyon",
+    "hill",
+    "coast",
+    "beach",
+    "islet"
+  ],
+  "water_body": [
+    "river",
+    "bayou",
+    "fishpond"
+  ],
+  "cryosphere_feature": [
+    "ice shelf",
+    "iceberg",
+    "crevasse"
+  ],
+  "forest_or_vegetation_area": [
+    "rainforest",
+    "bamboo forest"
+  ],
+  "agricultural_area": [
+    "rice paddy",
+    "corn field",
+    "hayfield",
+    "orchard"
+  ],
+  "built_environment": [
+    "settlement_or_complex",
+    "transportation_infrastructure",
+    "bridge",
+    "maritime_structure",
+    "vehicle_or_conveyance",
+    "outdoor_recreational_area",
+    "garden_or_park",
+    "amusement_and_entertainment_venue",
+    "sports_facility",
+    "commercial_venue",
+    "industrial_or_power_facility",
+    "industrial_equipment",
+    "religious_structure",
+    "educational_facility",
+    "civic_facility",
+    "burial_site",
+    "utility_infrastructure",
+    "parking_facility",
+    "playground",
+    "animal_facility",
+    "waste_site",
+    "observation_facility",
+    "booth_or_kiosk",
+    "circulation_or_vertical_transport",
+    "interior_space",
+    "architectural_element",
+    "building_or_shelter"
+  ],
+  "settlement_or_complex": [
+    "kasbah",
+    "ski resort",
+    "residential neighborhood",
+    "medina",
+    "campus"
+  ],
+  "transportation_infrastructure": [
+    "railroad track",
+    "highway",
+    "driveway",
+    "alley",
+    "boardwalk",
+    "airport terminal"
+  ],
+  "bridge": [
+    "covered bridge",
+    "lift bridge"
+  ],
+  "maritime_structure": [
+    "dock",
+    "harbor",
+    "boathouse"
+  ],
+  "vehicle_or_conveyance": [
+    "raft",
+    "boat deck",
+    "lido deck",
+    "cockpit"
+  ],
+  "outdoor_recreational_area": [
+    "picnic area",
+    "jacuzzi",
+    "hot tub",
+    "plaza",
+    "campsite",
+    "labyrinth"
+  ],
+  "garden_or_park": [
+    "formal garden",
+    "cottage garden",
+    "botanical garden"
+  ],
+  "amusement_and_entertainment_venue": [
+    "carrousel",
+    "discotheque",
+    "casino",
+    "amusement park",
+    "amusement arcade"
+  ],
+  "sports_facility": [
+    "riding arena",
+    "putting green",
+    "basketball court",
+    "ice skating rink",
+    "bowling alley",
+    "driving range",
+    "fairway",
+    "martial arts gym",
+    "firing range"
+  ],
+  "commercial_venue": [
+    "coffee shop",
+    "food court",
+    "gas station",
+    "music store",
+    "clothing store",
+    "shoe shop",
+    "jewelry shop",
+    "butchers shop",
+    "bazaar",
+    "shopping mall",
+    "diner",
+    "general store",
+    "conference center",
+    "bar",
+    "fastfood restaurant",
+    "art gallery",
+    "bookstore",
+    "florist shop",
+    "beauty salon",
+    "laundromat",
+    "restaurant patio"
+  ],
+  "industrial_or_power_facility": [
+    "auto factory",
+    "cheese factory",
+    "brewery",
+    "nuclear power plant",
+    "factory"
+  ],
+  "industrial_equipment": [
+    "assembly line"
+  ],
+  "religious_structure": [
+    "church",
+    "abbey",
+    "mosque",
+    "pagoda"
+  ],
+  "educational_facility": [
+    "art school",
+    "planetarium",
+    "schoolhouse"
+  ],
+  "civic_facility": [
+    "courthouse"
+  ],
+  "burial_site": [
+    "burial chamber",
+    "mausoleum",
+    "cemetery"
+  ],
+  "utility_infrastructure": [
+    "electrical substation"
+  ],
+  "parking_facility": [
+    "parking garage"
+  ],
+  "playground": [
+    "ball pit",
+    "sandbox"
+  ],
+  "animal_facility": [
+    "chicken coop"
+  ],
+  "waste_site": [
+    "garbage dump"
+  ],
+  "observation_facility": [
+    "observatory",
+    "control tower"
+  ],
+  "booth_or_kiosk": [
+    "booth",
+    "phone booth"
+  ],
+  "circulation_or_vertical_transport": [
+    "escalator",
+    "elevator shaft",
+    "elevator"
+  ],
+  "interior_space": [
+    "dorm room",
+    "dining room",
+    "parlor",
+    "locker room",
+    "classroom",
+    "cubicle",
+    "attic",
+    "game room",
+    "galley",
+    "arrival gate",
+    "office",
+    "music studio",
+    "operating room",
+    "courtroom",
+    "poolroom",
+    "bedroom",
+    "hospital room",
+    "hotel room",
+    "kitchenette",
+    "computer room",
+    "archive",
+    "lecture room",
+    "living room"
+  ],
+  "architectural_element": [
+    "cloister",
+    "corridor",
+    "building facade",
+    "arch",
+    "atrium",
+    "pavilion",
+    "gazebo",
+    "balcony"
+  ],
+  "building_or_shelter": [
+    "igloo",
+    "palace",
+    "house",
+    "greenhouse",
+    "chalet"
+  ]
+}

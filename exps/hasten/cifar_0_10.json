@@ -1,0 +1,21 @@
+{
+    "prefix": "-",
+    "dataset": "cifar224",
+    "shuffle": true,
+    "init_cls": 10,
+    "increment": 10,
+    "model_name": "hasten",
+    "convnet_type": "clip",
+    "device": [ "0"],
+    "seed": [1993],
+    "projection_type": "pure_mlp",
+    "frozen_layers": "visual",
+    "tuned_epoch": 10,
+    "init_lr": 0.001,
+    "batch_size": 64,
+    "weight_decay": 0.001,
+    "min_lr": 0,
+    "optimizer": "adam",
+    "stat": 0.85,
+    "sample_num": 0
+}
