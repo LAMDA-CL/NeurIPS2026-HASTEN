@@ -21,21 +21,24 @@
 The PyTorch code repository for **[Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2511.15633)**. If you use this code in your research, please cite:
 
 ```bibtex
-@misc{hu2025hierarchicalsemantictreeanchoring,
+@inproceedings{hu2026hierarchical,
   title={Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning},
   author={Tao Hu and Lan Li and Zhen-Hao Xie and Da-Wei Zhou},
-  year={2025},
-  eprint={2511.15633},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2511.15633}
+  booktitle = {NeurIPS},
+  year      = {2026}
 }
 ```
 
 ## 📝 Introduction
 
-Class-Incremental Learning (CIL) enables models to learn new classes continually while preserving past knowledge.
-Recently, vision-language models like CLIP offer transferable features via multi-modal pre-training, making them well-suited for CIL. However, real-world visual and linguistic concepts are inherently hierarchical: a textual concept like "dog" subsumes fine-grained categories such as "Labrador'' and "Golden Retriever," and each category entails its images. However, existing CLIP-based CIL methods fail to explicitly capture this inherent hierarchy, leading to feature drift of fine-grained classes during incremental updates and ultimately to catastrophic forgetting. To address this challenge, we propose HASTEN (Hierarchical Semantic Tree Anchoring), a hierarchy-aware framework that uses semantic structure to stabilize CLIP-based CIL. Rather than treating classes as isolated labels, HASTEN leverages external hierarchical knowledge as structured supervision to organize visual and textual features in hyperbolic space, helping maintain parent--child relations as new tasks arrive and mitigating feature drift. Since the shared hyperbolic mapper is updated across tasks, we further stabilize it by constraining its updates to a null space induced by prior-task features, reducing interference with previous mappings while retaining adaptability to new classes. Extensive experiments on nine benchmarks show that HASTEN consistently outperforms existing methods while reducing feature drift and catastrophic forgetting.
+Class-Incremental Learning (CIL) enables models to learn new classes continually while preserving past knowledge. 
+Recently, vision-language models like CLIP offer transferable features via multimodal pre-training, making them well-suited for CIL. 
+However, real-world visual and linguistic concepts are inherently hierarchical: a textual concept like "dog" subsumes fine-grained categories such as "Labrador" and "Golden Retriever," and each category is associated with corresponding images. 
+Nevertheless, existing CLIP-based CIL methods fail to explicitly capture this inherent hierarchy, leading to feature drift of fine-grained classes during incremental updates and ultimately to catastrophic forgetting. 
+To address this challenge, we propose HASTEN (Hierarchical Semantic Tree Anchoring), a hierarchy-aware framework that uses semantic structure to stabilize CLIP-based CIL. 
+Rather than treating classes as isolated labels, HASTEN leverages external hierarchical knowledge as structured supervision to organize visual and textual features in hyperbolic space, helping maintain parent--child relations as new tasks arrive and mitigating feature drift. 
+Since the shared hyperbolic mapper is updated across tasks, we further stabilize it by constraining its updates to a null space induced by prior-task features, reducing interference with previous mappings while retaining adaptability to new classes. 
+Extensive experiments on nine benchmarks show that HASTEN consistently outperforms existing methods while reducing feature drift and catastrophic forgetting.
 
 ## 🔧 Requirements
 
